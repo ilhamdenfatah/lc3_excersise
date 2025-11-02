@@ -1,0 +1,1001 @@
+trip_id,subscriber_type,bike_id,bike_type,start_time,start_station_id,start_station_name,end_station_id,end_station_name,duration_minutes
+19309516,Single Trip,647,classic,2019-02-24 09:32:17.000000 UTC,4051,10th & Red River,4051,10th & Red River,12
+19309511,Single Trip,12802,classic,2019-02-24 09:31:03.000000 UTC,4051,10th & Red River,4051,10th & Red River,8
+19309522,Single Trip,046G,classic,2019-02-24 09:34:16.000000 UTC,4051,10th & Red River,4051,10th & Red River,11
+19346245,Local30,263G,classic,2019-03-08 07:37:03.000000 UTC,4051,10th & Red River,4051,10th & Red River,50
+19468664,24 Hour Walk Up Pass,2143,classic,2019-03-31 12:16:21.000000 UTC,4051,10th & Red River,4051,10th & Red River,267
+19468668,24 Hour Walk Up Pass,1782,classic,2019-03-31 12:16:58.000000 UTC,4051,10th & Red River,4051,10th & Red River,268
+19468669,24 Hour Walk Up Pass,174,classic,2019-03-31 12:17:26.000000 UTC,4051,10th & Red River,4051,10th & Red River,267
+19390778,Single Trip Ride,874,classic,2019-03-17 10:49:45.000000 UTC,4051,10th & Red River,4051,10th & Red River,37
+19378857,U.T. Student Membership,864,classic,2019-03-14 19:07:54.000000 UTC,4051,10th & Red River,4051,10th & Red River,25
+19390779,Single Trip Ride,2286,classic,2019-03-17 10:49:46.000000 UTC,4051,10th & Red River,4051,10th & Red River,37
+19468672,24 Hour Walk Up Pass,2286,classic,2019-03-31 12:18:04.000000 UTC,4051,10th & Red River,4051,10th & Red River,266
+19378888,U.T. Student Membership,417,classic,2019-03-14 19:12:08.000000 UTC,4051,10th & Red River,4051,10th & Red River,20
+19428059,Single Trip ,417,classic,2019-03-23 19:12:45.000000 UTC,4051,10th & Red River,4051,10th & Red River,77
+19428065,Single Trip ,976,classic,2019-03-23 19:13:32.000000 UTC,4051,10th & Red River,4051,10th & Red River,75
+19517619,24 Hour Walk Up Pass,930,classic,2019-04-08 12:11:47.000000 UTC,4051,10th & Red River,4051,10th & Red River,180
+19517604,24 Hour Walk Up Pass,1834,classic,2019-04-08 12:10:11.000000 UTC,4051,10th & Red River,4051,10th & Red River,181
+19517624,24 Hour Walk Up Pass,898,classic,2019-04-08 12:12:19.000000 UTC,4051,10th & Red River,4051,10th & Red River,178
+19502418,Single Trip ,898,classic,2019-04-06 10:59:55.000000 UTC,4051,10th & Red River,4051,10th & Red River,7
+19777744,Annual,309G,classic,2019-05-16 18:50:46.000000 UTC,4051,10th & Red River,4051,10th & Red River,36
+19732380,Single Trip ,511,classic,2019-05-10 13:04:55.000000 UTC,4051,10th & Red River,4051,10th & Red River,133
+19779149,Local365,309G,classic,2019-05-17 07:41:14.000000 UTC,4051,10th & Red River,4051,10th & Red River,52
+18540292,Explorer,996,classic,2018-09-13 13:22:46.000000 UTC,4051,10th & Red River,4051,10th & Red River,140
+18622431,Walk Up,545,classic,2018-09-21 14:40:43.000000 UTC,4051,10th & Red River,4051,10th & Red River,116
+18622445,Walk Up,262,classic,2018-09-21 14:41:29.000000 UTC,4051,10th & Red River,4051,10th & Red River,115
+18751398,24 Hour Walk Up Pass,397,classic,2018-10-06 11:42:32.000000 UTC,4051,10th & Red River,4051,10th & Red River,1720
+18765255,U.T. Student Membership,897,classic,2018-10-08 07:00:30.000000 UTC,4051,10th & Red River,4051,10th & Red River,1026
+18778410,Local365,2459,classic,2018-10-10 09:32:18.000000 UTC,4051,10th & Red River,4051,10th & Red River,9
+18972187,24 Hour Walk Up Pass,272G,classic,2018-11-11 12:06:32.000000 UTC,4051,10th & Red River,4051,10th & Red River,4
+19285122,HT Ram Membership,15029E,electric,2019-02-16 08:23:30.000000 UTC,4055,11th & Salina ,4051,10th & Red River,12
+19289091,HT Ram Membership,15029E,electric,2019-02-17 12:06:25.000000 UTC,4055,11th & Salina ,4051,10th & Red River,11
+19250610,HT Ram Membership,1835,classic,2019-02-04 14:13:43.000000 UTC,4055,11th & Salina ,4051,10th & Red River,13
+19344480,U.T. Student Membership,655,classic,2019-03-07 15:24:02.000000 UTC,3291,11th & San Jacinto,4051,10th & Red River,2
+19829111,Single Trip Ride,078G,classic,2019-05-25 07:18:15.000000 UTC,3291,11th & San Jacinto,4051,10th & Red River,44
+19812176,Single Trip Ride,1703,classic,2019-05-22 16:17:34.000000 UTC,3291,11th & San Jacinto,4051,10th & Red River,65
+19868094,Local365,148G,classic,2019-05-30 08:46:15.000000 UTC,3291,11th & San Jacinto,4051,10th & Red River,28
+19874628,Local365,575,classic,2019-05-31 07:16:31.000000 UTC,3291,11th & San Jacinto,4051,10th & Red River,47
+19874573,Local365,854,classic,2019-05-31 06:54:15.000000 UTC,3291,11th & San Jacinto,4051,10th & Red River,10
+19344819,U.T. Student Membership,360,classic,2019-03-07 16:28:54.000000 UTC,3635,13th & San Antonio,4051,10th & Red River,11
+19272033,U.T. Student Membership,822,classic,2019-02-12 16:40:23.000000 UTC,2540,17th & Guadalupe,4051,10th & Red River,10
+19528755,U.T. Student Membership,72,classic,2019-04-09 19:15:11.000000 UTC,2540,17th & Guadalupe,4051,10th & Red River,7
+19214574,U.T. Student Membership,19,classic,2019-01-24 14:07:32.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,7
+19174932,U.T. Student Membership,115,classic,2019-01-10 12:40:37.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,10
+19275260,U.T. Student Membership,970,classic,2019-02-13 16:15:12.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,936
+19338835,U.T. Student Membership,15056E,electric,2019-03-05 17:42:06.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,7
+19562041,U.T. Student Membership,452,classic,2019-04-15 17:26:23.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,14
+19479311,U.T. Student Membership,373,classic,2019-04-02 14:33:19.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,9
+19497167,U.T. Student Membership,15063E,electric,2019-04-05 14:40:47.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,9
+19500800,U.T. Student Membership,898,classic,2019-04-05 22:15:48.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,21
+18266613,Walk Up,135,classic,2018-08-16 16:12:32.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,33
+18266605,Walk Up,14264,classic,2018-08-16 16:11:13.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,34
+18634042,Walk Up,963,classic,2018-09-22 17:20:52.000000 UTC,3798,21st & Speedway @PCL,4051,10th & Red River,2254
+19227322,U.T. Student Membership,197,classic,2019-01-28 16:41:47.000000 UTC,3797,21st & University,4051,10th & Red River,9
+19319759,U.T. Student Membership,124,classic,2019-02-26 18:29:21.000000 UTC,3797,21st & University,4051,10th & Red River,12
+19443249,U.T. Student Membership,174,classic,2019-03-26 15:49:35.000000 UTC,3797,21st & University,4051,10th & Red River,12
+19340398,U.T. Student Membership,066G,classic,2019-03-06 12:32:41.000000 UTC,3797,21st & University,4051,10th & Red River,9
+19454753,U.T. Student Membership,15056E,electric,2019-03-28 14:07:16.000000 UTC,3797,21st & University,4051,10th & Red River,8
+19525954,U.T. Student Membership,373,classic,2019-04-09 14:17:30.000000 UTC,3797,21st & University,4051,10th & Red River,9
+19575212,U.T. Student Membership,263,classic,2019-04-17 15:50:28.000000 UTC,3797,21st & University,4051,10th & Red River,11
+19770894,U.T. Student Membership,309G,classic,2019-05-15 20:47:36.000000 UTC,3797,21st & University,4051,10th & Red River,9
+19841755,Single Trip ,1639,classic,2019-05-26 14:29:28.000000 UTC,3792,22nd & Pearl,4051,10th & Red River,39
+18413368,U.T. Student Membership,572,classic,2018-08-31 18:08:45.000000 UTC,3792,22nd & Pearl,4051,10th & Red River,31
+18413364,U.T. Student Membership,983,classic,2018-08-31 18:08:37.000000 UTC,3792,22nd & Pearl,4051,10th & Red River,31
+18903321,U.T. Student Membership,52,classic,2018-10-29 13:57:16.000000 UTC,3841,23rd & Rio Grande,4051,10th & Red River,15
+18533594,U.T. Student Membership,230,classic,2018-09-12 18:25:45.000000 UTC,3799,23rd & San Jacinto @ DKR Stadium,4051,10th & Red River,12
+18540200,U.T. Student Membership,414,classic,2018-09-13 13:13:15.000000 UTC,3799,23rd & San Jacinto @ DKR Stadium,4051,10th & Red River,10
+18730603,U.T. Student Membership,2188,classic,2018-10-03 17:52:06.000000 UTC,3799,23rd & San Jacinto @ DKR Stadium,4051,10th & Red River,11
+18981988,U.T. Student Membership,066G,classic,2018-11-14 14:16:23.000000 UTC,3799,23rd & San Jacinto @ DKR Stadium,4051,10th & Red River,10
+18267314,Walk Up,329,classic,2018-08-16 17:24:14.000000 UTC,2494,2nd & Congress,4051,10th & Red River,8
+18530481,Local365,610,classic,2018-09-12 14:30:21.000000 UTC,2494,2nd & Congress,4051,10th & Red River,8
+19415791,Local365+Guest Pass,15027E,electric,2019-03-21 18:37:42.000000 UTC,2552,3rd & West,4051,10th & Red River,11
+18684697,Local365,1583,classic,2018-09-28 08:51:07.000000 UTC,2552,3rd & West,4051,10th & Red River,11
+19197093,3-Day Explorer,15063E,electric,2019-01-17 22:02:41.000000 UTC,2495,4th & Congress,4051,10th & Red River,12
+19197094,3-Day Explorer,15059E,electric,2019-01-17 22:03:14.000000 UTC,2495,4th & Congress,4051,10th & Red River,11
+18421809,Walk Up,262,classic,2018-09-01 14:43:28.000000 UTC,2495,4th & Congress,4051,10th & Red River,37
+18421832,Walk Up,922,classic,2018-09-01 14:44:50.000000 UTC,2495,4th & Congress,4051,10th & Red River,37
+18761983,3-Day Weekender,872,classic,2018-10-07 15:42:27.000000 UTC,2495,4th & Congress,4051,10th & Red River,13
+18762006,3-Day Weekender,229G,classic,2018-10-07 15:44:57.000000 UTC,2495,4th & Congress,4051,10th & Red River,11
+18761993,3-Day Weekender,509,classic,2018-10-07 15:43:35.000000 UTC,2495,4th & Congress,4051,10th & Red River,12
+19342050,U.T. Student Membership,15056E,electric,2019-03-06 20:15:21.000000 UTC,4050,5th & Campbell,4051,10th & Red River,11
+19354969,3-Day Explorer,349G,classic,2019-03-09 22:36:48.000000 UTC,4057,6th & Chalmers ,4051,10th & Red River,13
+19185585,Local365,15059E,electric,2019-01-14 09:41:11.000000 UTC,3619,6th & Congress,4051,10th & Red River,5
+18265104,Local365,650,classic,2018-08-16 12:47:01.000000 UTC,3619,6th & Congress,4051,10th & Red River,24
+18671394,U.T. Student Membership,19,classic,2018-09-26 17:31:02.000000 UTC,3619,6th & Congress,4051,10th & Red River,6
+18885245,U.T. Student Membership,64,classic,2018-10-26 18:53:32.000000 UTC,3619,6th & Congress,4051,10th & Red River,7
+18884938,U.T. Student Membership,655,classic,2018-10-26 18:16:08.000000 UTC,3619,6th & Congress,4051,10th & Red River,6
+19360198,3-Day Explorer,1930,classic,2019-03-10 23:17:50.000000 UTC,2496,8th & Congress,4051,10th & Red River,5
+18516078,Local365,391,classic,2018-09-11 06:58:53.000000 UTC,2496,8th & Congress,4051,10th & Red River,5
+18777732,Local365,2459,classic,2018-10-10 06:51:42.000000 UTC,2496,8th & Congress,4051,10th & Red River,5
+19867165,Explorer,655,classic,2019-05-29 22:24:27.000000 UTC,4047,8th & Lavaca,4051,10th & Red River,8
+18506166,Local365,666,classic,2018-09-10 06:50:04.000000 UTC,4047,8th & Lavaca,4051,10th & Red River,5
+19215195,Local365,414,classic,2019-01-24 17:05:36.000000 UTC,2502,Barton Springs & Riverside,4051,10th & Red River,13
+19194824,Local365,306,classic,2019-01-17 11:53:23.000000 UTC,2502,Barton Springs & Riverside,4051,10th & Red River,12
+19201950,24 Hour Walk Up Pass,435,classic,2019-01-19 17:40:05.000000 UTC,2711,Barton Springs @ Kinney Ave,4051,10th & Red River,42
+19372482,Local30,547,classic,2019-03-13 13:50:17.000000 UTC,2711,Barton Springs @ Kinney Ave,4051,10th & Red River,15
+19204553,Single Trip,050G,classic,2019-01-20 16:44:07.000000 UTC,2572,Barton Springs Pool,4051,10th & Red River,35
+19204559,Single Trip,869,classic,2019-01-20 16:45:22.000000 UTC,2572,Barton Springs Pool,4051,10th & Red River,34
+19649828,24 Hour Walk Up Pass,1511,classic,2019-04-27 14:36:26.000000 UTC,2572,Barton Springs Pool,4051,10th & Red River,43
+19649822,24 Hour Walk Up Pass,198BB,electric,2019-04-27 14:35:41.000000 UTC,2572,Barton Springs Pool,4051,10th & Red River,44
+19527983,24 Hour Walk Up Pass,14148,classic,2019-04-09 17:59:11.000000 UTC,3687,Boardwalk West,4051,10th & Red River,34
+19202250,3-Day Explorer,774,classic,2019-01-19 21:10:28.000000 UTC,3390,Brazos & 6th,4051,10th & Red River,9
+19202249,3-Day Explorer,425,classic,2019-01-19 21:10:11.000000 UTC,3390,Brazos & 6th,4051,10th & Red River,9
+18427189,Weekender,1486,classic,2018-09-01 21:33:36.000000 UTC,3390,Brazos & 6th,4051,10th & Red River,34
+18427232,Walk Up,447,classic,2018-09-01 21:40:42.000000 UTC,3390,Brazos & 6th,4051,10th & Red River,27
+18794886,24 Hour Walk Up Pass,151G,classic,2018-10-12 17:19:56.000000 UTC,2823,Capital Metro HQ - East 5th at Broadway,4051,10th & Red River,21
+19285657,3-Day Explorer,311,classic,2019-02-16 11:34:27.000000 UTC,2497,Capitol Station / Congress & 11th,4051,10th & Red River,11
+19285658,3-Day Explorer,182,classic,2019-02-16 11:34:27.000000 UTC,2497,Capitol Station / Congress & 11th,4051,10th & Red River,9
+19544017,U.T. Student Membership,034G,classic,2019-04-12 17:01:44.000000 UTC,2497,Capitol Station / Congress & 11th,4051,10th & Red River,1262
+19799992,24 Hour Walk Up Pass,110G,classic,2019-05-20 11:30:04.000000 UTC,2497,Capitol Station / Congress & 11th,4051,10th & Red River,5
+18998298,3-Day Explorer,479,classic,2018-11-18 09:51:07.000000 UTC,2497,Capitol Station / Congress & 11th,4051,10th & Red River,6
+18970324,24 Hour Walk Up Pass,15063E,electric,2018-11-10 17:49:33.000000 UTC,2497,Capitol Station / Congress & 11th,4051,10th & Red River,13
+19212217,Local30,2326,classic,2019-01-23 15:49:06.000000 UTC,2499,City Hall / Lavaca & 2nd,4051,10th & Red River,77
+18636774,Walk Up,3,classic,2018-09-22 22:23:16.000000 UTC,2499,City Hall / Lavaca & 2nd,4051,10th & Red River,1951
+18792740,3-Day Weekender,2326,classic,2018-10-12 13:48:29.000000 UTC,2499,City Hall / Lavaca & 2nd,4051,10th & Red River,19
+18792733,3-Day Weekender,1551,classic,2018-10-12 13:47:40.000000 UTC,2499,City Hall / Lavaca & 2nd,4051,10th & Red River,20
+19416259,Explorer,4,classic,2019-03-21 19:57:32.000000 UTC,3684,Congress & Cesar Chavez,4051,10th & Red River,20
+19434804,Single Trip ,655,classic,2019-03-24 20:56:12.000000 UTC,2539,Convention Center / 3rd & Trinity,4051,10th & Red River,4
+18983823,Local365- 1/2 off Anniversary Special,993,classic,2018-11-14 21:16:13.000000 UTC,2539,Convention Center / 3rd & Trinity,4051,10th & Red River,4
+19281995,Local365,354G,classic,2019-02-15 12:34:45.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,7
+19352744,3-Day Explorer,2326,classic,2019-03-09 15:12:09.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,6
+19798693,Single Trip Ride,188,classic,2019-05-20 07:22:28.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,103
+18888715,3-Day Weekender,14143,classic,2018-10-27 12:49:18.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,51
+18888704,3-Day Weekender,984,classic,2018-10-27 12:48:31.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,51
+18888740,3-Day Weekender,3471,classic,2018-10-27 12:51:18.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,49
+18888725,3-Day Weekender,893,classic,2018-10-27 12:49:58.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,53
+18858062,24 Hour Walk Up Pass,233G,classic,2018-10-22 15:49:06.000000 UTC,2498,Convention Center / 4th St. @ MetroRail,4051,10th & Red River,5
+19196009,Local365+Guest Pass,113G,classic,2019-01-17 16:02:15.000000 UTC,2563,Davis at Rainey Street,4051,10th & Red River,13
+19376319,Single Trip ,968,classic,2019-03-14 12:49:55.000000 UTC,2563,Davis at Rainey Street,4051,10th & Red River,36
+19376315,Single Trip ,2143,classic,2019-03-14 12:48:40.000000 UTC,2563,Davis at Rainey Street,4051,10th & Red River,37
+19819262,Local365,157,classic,2019-05-23 18:57:16.000000 UTC,2563,Davis at Rainey Street,4051,10th & Red River,9
+18760668,3-Day Weekender,2204,classic,2018-10-07 13:28:49.000000 UTC,2563,Davis at Rainey Street,4051,10th & Red River,7
+19018682,Local30,15063E,electric,2018-11-23 17:15:15.000000 UTC,2563,Davis at Rainey Street,4051,10th & Red River,50
+19018691,Local30,15027E,electric,2018-11-23 17:16:57.000000 UTC,2563,Davis at Rainey Street,4051,10th & Red River,49
+19383306,U.T. Student Membership,318G,classic,2019-03-15 17:21:11.000000 UTC,3794,Dean Keeton & Speedway ,4051,10th & Red River,13
+19760730,U.T. Student Membership,305G,classic,2019-05-14 16:45:20.000000 UTC,3794,Dean Keeton & Speedway ,4051,10th & Red River,13
+18753553,Explorer,287,classic,2018-10-06 14:56:51.000000 UTC,3794,Dean Keeton & Speedway ,4051,10th & Red River,18
+18753540,24 Hour Walk Up Pass,936,classic,2018-10-06 14:55:54.000000 UTC,3794,Dean Keeton & Speedway ,4051,10th & Red River,19
+18691354,U.T. Student Membership,382,classic,2018-09-28 18:48:05.000000 UTC,3795,Dean Keeton & Whitis,4051,10th & Red River,15
+19235916,Local365,563,classic,2019-01-31 13:39:15.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19226312,Local365,14264,classic,2019-01-28 11:46:10.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,2
+19229448,Local365,414,classic,2019-01-29 09:35:10.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19232777,Local365,326,classic,2019-01-30 09:39:53.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19247246,$1 Pay by Trip Winter Special,1596,classic,2019-02-03 15:23:02.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,36
+19250687,Local365,93,classic,2019-02-04 14:28:40.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19298049,Local365,382,classic,2019-02-20 14:16:58.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19306464,3-Day Explorer,1782,classic,2019-02-23 12:10:28.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,9
+19452902,Local365,2274,classic,2019-03-28 09:52:15.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,2
+19337883,Local365,446,classic,2019-03-05 12:13:57.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19383829,Single Trip ,2286,classic,2019-03-15 18:34:11.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,1172
+19407778,Local365,14151,classic,2019-03-20 09:52:18.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,136
+19372083,Single Trip ,640,classic,2019-03-13 12:47:30.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,78
+19412492,Local365,1782,classic,2019-03-21 10:00:54.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19372074,Single Trip ,551,classic,2019-03-13 12:46:11.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,17
+19342765,Local365,263G,classic,2019-03-07 09:51:15.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19402324,Local365,545,classic,2019-03-19 09:55:28.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19372079,Single Trip ,1424,classic,2019-03-13 12:46:57.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,17
+19417569,Local365,273,classic,2019-03-22 09:44:59.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,5
+19375479,Local365,874,classic,2019-03-14 09:47:10.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19339887,Local365,1851,classic,2019-03-06 09:51:34.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19372058,Single Trip ,895,classic,2019-03-13 12:44:25.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,18
+19453246,Local365,2205,classic,2019-03-28 10:45:21.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19535678,Local365,3,classic,2019-04-11 09:43:37.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19542880,Local365,852,classic,2019-04-12 14:19:59.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19477573,Local365,12764,classic,2019-04-02 09:19:48.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,5
+19483211,Local365,956,classic,2019-04-03 09:25:48.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19494698,Local365,140,classic,2019-04-05 09:31:40.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+19815723,Local365,962,classic,2019-05-23 09:37:07.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,2
+19764862,Local365,2204,classic,2019-05-15 09:11:34.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,2
+19732507,Local365,258G,classic,2019-05-10 13:21:55.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19772693,Local365,453,classic,2019-05-16 09:35:17.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19862076,Local365,765,classic,2019-05-29 09:48:46.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19779889,Local365,369G,classic,2019-05-17 09:25:31.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+18591658,Local365+Guest Pass,873,classic,2018-09-18 12:11:25.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+18688824,Walk Up,106,classic,2018-09-28 15:23:17.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,14
+18666579,Local365,522,classic,2018-09-26 09:41:25.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+18997299,Single Trip,920,classic,2018-11-17 20:49:22.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,4
+18988953,Local365- 1/2 off Anniversary Special,93,classic,2018-11-16 09:35:46.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+18942827,Local365- 1/2 off Anniversary Special,885,classic,2018-11-05 09:35:11.000000 UTC,2569,East 11th St. & San Marcos,4051,10th & Red River,3
+19323578,U.T. Student Membership,224,classic,2019-02-27 22:10:16.000000 UTC,2568,East 11th St. at Victory Grill,4051,10th & Red River,3
+18756746,,1795,classic,2018-10-06 20:22:41.000000 UTC,2568,East 11th St. at Victory Grill,4051,10th & Red River,3
+18800763,3-Day Explorer,520,classic,2018-10-13 14:18:19.000000 UTC,2568,East 11th St. at Victory Grill,4051,10th & Red River,8
+18756744,Local365+Guest Pass,12802,classic,2018-10-06 20:22:26.000000 UTC,2568,East 11th St. at Victory Grill,4051,10th & Red River,4
+18756747,Local365+Guest Pass,503,classic,2018-10-06 20:22:48.000000 UTC,2568,East 11th St. at Victory Grill,4051,10th & Red River,3
+18800762,3-Day Explorer,938,classic,2018-10-13 14:18:18.000000 UTC,2568,East 11th St. at Victory Grill,4051,10th & Red River,8
+19797191,Local365,246G,classic,2019-05-19 18:39:08.000000 UTC,3292,East 4th & Chicon,4051,10th & Red River,11
+18930303,3-Day Explorer,1423,classic,2018-11-03 08:04:23.000000 UTC,3292,East 4th & Chicon,4051,10th & Red River,17
+19367462,Local30,2299,classic,2019-03-12 12:31:51.000000 UTC,2544,East 6th & Pedernales St.,4051,10th & Red River,24
+18791981,24 Hour Walk Up Pass,1641,classic,2018-10-12 12:36:21.000000 UTC,2544,East 6th & Pedernales St.,4051,10th & Red River,689
+18884484,U.T. Student Membership,12811,classic,2018-10-26 17:34:18.000000 UTC,2544,East 6th & Pedernales St.,4051,10th & Red River,14
+19301983,Local365,2143,classic,2019-02-21 16:54:37.000000 UTC,2822,East 6th at Robert Martinez,4051,10th & Red River,922
+19451425,U.T. Student Membership,548,classic,2019-03-27 20:07:55.000000 UTC,2547,Guadalupe & 21st,4051,10th & Red River,13
+18746961,3-Day Weekender,1744,classic,2018-10-05 17:22:14.000000 UTC,3685,Henderson & 9th,4051,10th & Red River,21
+18881024,3-Day Explorer,110G,classic,2018-10-26 09:59:56.000000 UTC,4062,Lakeshore & Pleasant Valley,4051,10th & Red River,44
+19414814,Explorer,4,classic,2019-03-21 16:35:05.000000 UTC,4061,Lakeshore @ Austin Hostel,4051,10th & Red River,60
+18888135,U.T. Student Membership,288,classic,2018-10-27 11:58:53.000000 UTC,4061,Lakeshore @ Austin Hostel,4051,10th & Red River,20
+19186303,Local365,15059E,electric,2019-01-14 13:09:43.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,9
+19279373,Local365,1795,classic,2019-02-14 16:50:46.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,15
+19261874,Local365,861,classic,2019-02-07 16:48:46.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,15
+19456259,Local365,198BB,electric,2019-03-28 17:09:22.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,13
+19538223,Local365,447,classic,2019-04-11 16:56:41.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,14
+19582342,Local365,728,classic,2019-04-18 16:57:21.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,13
+19728647,Local365,895,classic,2019-05-09 16:53:06.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,13
+19762379,Local365+Guest Pass,3,classic,2019-05-14 19:12:27.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,14
+19776127,Local365,164,classic,2019-05-16 17:02:53.000000 UTC,2549,Long Center @ South 1st & Riverside,4051,10th & Red River,13
+19199246,3-Day Explorer,1441,classic,2019-01-18 17:33:24.000000 UTC,3660,Medina & East 6th,4051,10th & Red River,10
+19234603,24 Hour Walk Up Pass,233G,classic,2019-01-30 20:31:35.000000 UTC,3660,Medina & East 6th,4051,10th & Red River,8
+19199247,3-Day Explorer,610,classic,2019-01-18 17:33:28.000000 UTC,3660,Medina & East 6th,4051,10th & Red River,10
+19234601,24 Hour Walk Up Pass,228,classic,2019-01-30 20:30:40.000000 UTC,3660,Medina & East 6th,4051,10th & Red River,8
+19653727,3-Day Explorer,387,classic,2019-04-27 22:55:10.000000 UTC,3660,Medina & East 6th,4051,10th & Red River,592
+19653724,3-Day Explorer,765,classic,2019-04-27 22:54:37.000000 UTC,3660,Medina & East 6th,4051,10th & Red River,593
+18797135,,893,classic,2018-10-12 22:36:58.000000 UTC,3377,MoPac Pedestrian Bridge @ Veterans Drive,4051,10th & Red River,30
+18797143,Local365+Guest Pass,024G,classic,2018-10-12 22:38:07.000000 UTC,3377,MoPac Pedestrian Bridge @ Veterans Drive,4051,10th & Red River,87
+18797136,Local365+Guest Pass,957,classic,2018-10-12 22:37:05.000000 UTC,3377,MoPac Pedestrian Bridge @ Veterans Drive,4051,10th & Red River,29
+18706265,Explorer,285,classic,2018-09-30 14:57:10.000000 UTC,3838,Nueces & 26th,4051,10th & Red River,34
+18997282,U.T. Student Membership,930,classic,2018-11-17 20:43:43.000000 UTC,3838,Nueces & 26th,4051,10th & Red River,21
+18675833,Local365,993,classic,2018-09-27 09:45:43.000000 UTC,3621,Nueces & 3rd,4051,10th & Red River,13
+19282322,Single Trip,23,classic,2019-02-15 13:34:05.000000 UTC,2567,Palmer Auditorium,4051,10th & Red River,62
+19282312,Single Trip,214,classic,2019-02-15 13:33:02.000000 UTC,2567,Palmer Auditorium,4051,10th & Red River,63
+18609371,Local365,920,classic,2018-09-20 08:03:49.000000 UTC,2567,Palmer Auditorium,4051,10th & Red River,14
+19417728,Local30,072G,classic,2019-03-22 10:09:29.000000 UTC,2566,Pfluger Bridge @ W 2nd Street,4051,10th & Red River,18
+19633019,3-Day Explorer,12764,classic,2019-04-25 11:58:20.000000 UTC,2566,Pfluger Bridge @ W 2nd Street,4051,10th & Red River,130
+18411255,Weekender,895,classic,2018-08-31 15:16:45.000000 UTC,2566,Pfluger Bridge @ W 2nd Street,4051,10th & Red River,31
+18411218,Weekender,963,classic,2018-08-31 15:13:41.000000 UTC,2566,Pfluger Bridge @ W 2nd Street,4051,10th & Red River,34
+19815639,Local365,138G,classic,2019-05-23 09:17:33.000000 UTC,2542,Plaza Saltillo,4051,10th & Red River,13
+18628951,Walk Up,261G,classic,2018-09-22 10:42:52.000000 UTC,2542,Plaza Saltillo,4051,10th & Red River,44
+19538800,Single Trip ,1744,classic,2019-04-11 18:03:31.000000 UTC,2707,Rainey St @ Cummings,4051,10th & Red River,15
+18722681,24 Hour Walk Up Pass,75,classic,2018-10-02 18:15:18.000000 UTC,2707,Rainey St @ Cummings,4051,10th & Red River,15
+19011217,Local30,2022,classic,2018-11-21 11:02:10.000000 UTC,2707,Rainey St @ Cummings,4051,10th & Red River,7
+19847307,Local365,040G,classic,2019-05-27 06:38:43.000000 UTC,2571,Red River & 8th Street,4051,10th & Red River,102
+19804009,Local365,353G,classic,2019-05-21 07:29:19.000000 UTC,2571,Red River & 8th Street,4051,10th & Red River,61
+18759370,24 Hour Walk Up Pass,897,classic,2018-10-07 11:14:05.000000 UTC,2571,Red River & 8th Street,4051,10th & Red River,26
+18759360,24 Hour Walk Up Pass,301,classic,2018-10-07 11:12:49.000000 UTC,2571,Red River & 8th Street,4051,10th & Red River,28
+18944725,$1 Pay by Trip Fall Special,272G,classic,2018-11-05 14:10:57.000000 UTC,2571,Red River & 8th Street,4051,10th & Red River,7
+19501256,3-Day Explorer,1834,classic,2019-04-06 02:25:22.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th & Red River,12
+19856244,Single Trip Ride,285,classic,2019-05-28 10:04:39.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th & Red River,136
+19856285,Single Trip Ride,549,classic,2019-05-28 10:12:05.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th & Red River,128
+18440298,Walk Up,979,classic,2018-09-03 01:47:59.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th & Red River,380
+18440299,Walk Up,174,classic,2018-09-03 01:48:51.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th & Red River,378
+18888613,3-Day Weekender,1000,classic,2018-10-27 12:42:03.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th & Red River,57
+18674375,Local365,041G,classic,2018-09-27 06:43:33.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,8
+18647233,Local365,540,classic,2018-09-24 06:45:00.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,9
+18600389,Local365,104,classic,2018-09-19 08:44:42.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,7
+18525988,Local365,1486,classic,2018-09-12 06:46:57.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,7
+18588695,Local365,984,classic,2018-09-18 06:43:27.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,530
+18656461,Local365,540,classic,2018-09-25 06:41:41.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,6
+18665397,Local365,024G,classic,2018-09-26 06:47:00.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,8
+18708840,Local365,041G,classic,2018-10-01 06:44:01.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,103
+18724981,Local365,709,classic,2018-10-03 07:02:46.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,7
+18716697,Local365,041G,classic,2018-10-02 06:42:36.000000 UTC,3455,Republic Square @ 5th & Guadalupe,4051,10th & Red River,7
+19256892,3-Day Explorer,89,classic,2019-02-05 18:19:48.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,5
+19263491,3-Day Explorer,233G,classic,2019-02-08 14:24:12.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,4
+19388580,Single Trip Ride,354G,classic,2019-03-16 17:39:04.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,23
+19388600,Single Trip Ride,171G,classic,2019-03-16 17:40:30.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,22
+19365378,Local365,1586,classic,2019-03-11 21:11:23.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,4
+19379510,Local365,122,classic,2019-03-14 21:30:29.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,6
+19645270,Single Trip ,693,classic,2019-04-26 21:46:49.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,9
+18689552,Walk Up,107,classic,2018-09-28 16:28:19.000000 UTC,4052,Rosewood & Angelina,4051,10th & Red River,6
+19858379,Local365,479,classic,2019-05-28 16:08:25.000000 UTC,2562,San Jacinto & 8th Street,4051,10th & Red River,3
+19389870,Single Trip ,411,classic,2019-03-16 22:40:07.000000 UTC,2570,South Congress & Academy,4051,10th & Red River,22
+19389873,Single Trip ,158,classic,2019-03-16 22:40:52.000000 UTC,2570,South Congress & Academy,4051,10th & Red River,23
+19386465,24 Hour Walk Up Pass,453,classic,2019-03-16 13:42:23.000000 UTC,2570,South Congress & Academy,4051,10th & Red River,25
+19376962,Local30,976,classic,2019-03-14 14:38:17.000000 UTC,3513,South Congress & Barton Springs at the Austin American-Statesman,4051,10th & Red River,14
+19786748,3-Day Explorer,3212,classic,2019-05-18 09:41:55.000000 UTC,3513,South Congress & Barton Springs at the Austin American-Statesman,4051,10th & Red River,12
+18851294,$1 Pay by Trip Fall Special,64,classic,2018-10-21 16:34:13.000000 UTC,3513,South Congress & Barton Springs at the Austin American-Statesman,4051,10th & Red River,11
+19671380,Single Trip Ride,693,classic,2019-04-30 21:15:41.000000 UTC,2504,South Congress & Elizabeth,4051,10th & Red River,23
+18777214,Local30,332,classic,2018-10-09 21:39:55.000000 UTC,2504,South Congress & Elizabeth,4051,10th & Red River,15
+19388726,24 Hour Walk Up Pass,298,classic,2019-03-16 17:56:17.000000 UTC,2503,South Congress & James,4051,10th & Red River,58
+19428243,Local30,387,classic,2019-03-23 19:44:12.000000 UTC,2503,South Congress & James,4051,10th & Red River,22
+19543361,24 Hour Walk Up Pass,174,classic,2019-04-12 15:26:14.000000 UTC,2503,South Congress & James,4051,10th & Red River,28
+18422841,Walk Up,860,classic,2018-09-01 15:49:41.000000 UTC,2503,South Congress & James,4051,10th & Red River,28
+18632255,Walk Up,5,classic,2018-09-22 15:03:23.000000 UTC,2503,South Congress & James,4051,10th & Red River,20
+18632243,Walk Up,546,classic,2018-09-22 15:02:31.000000 UTC,2503,South Congress & James,4051,10th & Red River,21
+19543426,3-Day Explorer,2108,classic,2019-04-12 15:37:13.000000 UTC,4048,South Congress @ Bouldin Creek,4051,10th & Red River,18
+18846722,Local30,2048,classic,2018-10-20 23:09:43.000000 UTC,2561,State Capitol Visitors Garage @ San Jacinto & 12th,4051,10th & Red River,4
+18721018,24 Hour Walk Up Pass,897,classic,2018-10-02 15:51:34.000000 UTC,3686,Sterzing at Barton Springs,4051,10th & Red River,213
+19370854,Local30,88,classic,2019-03-12 22:43:35.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,4
+19652176,Single Trip ,235,classic,2019-04-27 18:46:05.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,21
+19652182,Single Trip ,397,classic,2019-04-27 18:46:47.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,21
+19652186,Single Trip ,936,classic,2019-04-27 18:47:25.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,20
+19652189,Single Trip ,1596,classic,2019-04-27 18:48:05.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,19
+19652193,Single Trip ,14251,classic,2019-04-27 18:48:32.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,19
+18722469,24 Hour Walk Up Pass,287G,classic,2018-10-02 17:59:22.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,84
+18789135,3-Day Weekender,301,classic,2018-10-11 21:30:10.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,8
+18789138,3-Day Weekender,110G,classic,2018-10-11 21:30:44.000000 UTC,2565,Trinity & 6th Street,4051,10th & Red River,8
+19453344,U.T. Student Membership,15029E,electric,2019-03-28 11:00:20.000000 UTC,2537,West & 6th St.,4051,10th & Red River,6
+18805295,3-Day Weekender,14,classic,2018-10-13 23:17:28.000000 UTC,2537,West & 6th St.,4051,10th & Red River,22
+18805293,3-Day Weekender,975,classic,2018-10-13 23:16:41.000000 UTC,2537,West & 6th St.,4051,10th & Red River,23
+19394423,Single Trip Ride,4,classic,2019-03-17 18:00:34.000000 UTC,2574,Zilker Park,4051,10th & Red River,30
+18939964,Single Trip,263G,classic,2018-11-04 15:39:35.000000 UTC,2574,Zilker Park,4051,10th & Red River,44
+22952284,Single Trip (Pay-as-you-ride),17374,electric,2020-10-04 08:46:36.000000 UTC,4051,10th/Red River,4051,10th/Red River,50
+23006844,Local31,19401,electric,2020-10-11 18:42:45.000000 UTC,4051,10th/Red River,4051,10th/Red River,4
+22952287,Single Trip (Pay-as-you-ride),666,classic,2020-10-04 08:47:23.000000 UTC,4051,10th/Red River,4051,10th/Red River,49
+23015600,Pay-as-you-ride,19401,electric,2020-10-13 12:00:44.000000 UTC,4051,10th/Red River,4051,10th/Red River,6
+23169793,Explorer,19670,electric,2020-11-10 17:45:04.000000 UTC,4051,10th/Red River,4051,10th/Red River,17
+23170886,Explorer,227G,classic,2020-11-10 23:29:58.000000 UTC,4051,10th/Red River,4051,10th/Red River,2
+23170891,Explorer,227G,classic,2020-11-10 23:31:26.000000 UTC,4051,10th/Red River,4051,10th/Red River,7
+19994521,3-Day Explorer,853,classic,2019-06-15 10:05:24.000000 UTC,4051,10th/Red River,4051,10th/Red River,54
+20104916,24 Hour Walk Up Pass,302,classic,2019-06-28 18:11:09.000000 UTC,4051,10th/Red River,4051,10th/Red River,2
+20091479,Local365,511,classic,2019-06-27 09:15:37.000000 UTC,4051,10th/Red River,4051,10th/Red River,43
+19994639,24 Hour Walk Up Pass,435,classic,2019-06-15 10:16:10.000000 UTC,4051,10th/Red River,4051,10th/Red River,43
+20267125,24 Hour Walk Up Pass,138G,classic,2019-07-16 19:20:38.000000 UTC,4051,10th/Red River,4051,10th/Red River,882
+20333922,Single Trip ,138G,classic,2019-07-24 16:34:09.000000 UTC,4051,10th/Red River,4051,10th/Red River,2
+20214779,3-Day Explorer,138G,classic,2019-07-11 08:20:04.000000 UTC,4051,10th/Red River,4051,10th/Red River,60
+20333934,Single Trip ,113G,classic,2019-07-24 16:34:49.000000 UTC,4051,10th/Red River,4051,10th/Red River,2
+20366234,Single Trip ,138G,classic,2019-07-27 20:01:30.000000 UTC,4051,10th/Red River,4051,10th/Red River,41
+20366237,Single Trip ,278,classic,2019-07-27 20:02:12.000000 UTC,4051,10th/Red River,4051,10th/Red River,40
+20189128,3-Day Explorer,1782,classic,2019-07-08 06:47:27.000000 UTC,4051,10th/Red River,4051,10th/Red River,30
+20603822,Single Trip ,123,classic,2019-08-24 17:38:36.000000 UTC,4051,10th/Red River,4051,10th/Red River,882
+20436033,Single Trip ,138G,classic,2019-08-04 14:18:05.000000 UTC,4051,10th/Red River,4051,10th/Red River,54
+20721348,Single Trip Ride,554,classic,2019-09-06 13:26:40.000000 UTC,4051,10th/Red River,4051,10th/Red River,35
+20721351,Single Trip Ride,478,classic,2019-09-06 13:26:43.000000 UTC,4051,10th/Red River,4051,10th/Red River,35
+20697707,Single Trip ,447,classic,2019-09-04 07:26:26.000000 UTC,4051,10th/Red River,4051,10th/Red River,39
+20697710,Single Trip ,832,classic,2019-09-04 07:27:12.000000 UTC,4051,10th/Red River,4051,10th/Red River,38
+21936668,Pay-as-you-ride,479,classic,2020-05-13 12:36:42.000000 UTC,4051,10th/Red River,4051,10th/Red River,21
+21925987,Pay-as-you-ride,479,classic,2020-05-11 11:00:46.000000 UTC,4051,10th/Red River,4051,10th/Red River,13
+22488380,Single Trip (Pay-as-you-ride),89,classic,2020-07-30 19:22:29.000000 UTC,4051,10th/Red River,4051,10th/Red River,39
+22483940,Single Trip (Pay-as-you-ride),89,classic,2020-07-29 21:51:19.000000 UTC,4051,10th/Red River,4051,10th/Red River,11
+22488390,Single Trip (Pay-as-you-ride),19367,electric,2020-07-30 19:23:12.000000 UTC,4051,10th/Red River,4051,10th/Red River,39
+22626026,Single Trip (Pay-as-you-ride),1687,classic,2020-08-19 21:37:54.000000 UTC,4051,10th/Red River,4051,10th/Red River,12
+22626033,Single Trip (Pay-as-you-ride),1639,classic,2020-08-19 21:38:26.000000 UTC,4051,10th/Red River,4051,10th/Red River,11
+22502862,Single Trip (Pay-as-you-ride),19367,electric,2020-08-01 21:01:52.000000 UTC,4051,10th/Red River,4051,10th/Red River,2
+22503210,Single Trip (Pay-as-you-ride),035G,classic,2020-08-01 21:46:57.000000 UTC,4051,10th/Red River,4051,10th/Red River,5
+22815189,Single Trip (Pay-as-you-ride),80,classic,2020-09-13 21:25:24.000000 UTC,4051,10th/Red River,4051,10th/Red River,21
+22903643,Local31,19401,electric,2020-09-26 18:31:29.000000 UTC,4051,10th/Red River,4051,10th/Red River,2
+22908860,Single Trip (Pay-as-you-ride),19401,electric,2020-09-27 12:27:18.000000 UTC,4051,10th/Red River,4051,10th/Red River,6
+22910845,Explorer,49,classic,2020-09-27 16:25:10.000000 UTC,4051,10th/Red River,4051,10th/Red River,465
+22910817,Explorer,19401,electric,2020-09-27 16:23:28.000000 UTC,4051,10th/Red River,4051,10th/Red River,3
+22910826,Explorer,209,classic,2020-09-27 16:24:06.000000 UTC,4051,10th/Red River,4051,10th/Red River,3
+22908921,Single Trip (Pay-as-you-ride),23,classic,2020-09-27 12:36:26.000000 UTC,4051,10th/Red River,4051,10th/Red River,12
+22851450,3-Day Weekender,19401,electric,2020-09-19 13:15:58.000000 UTC,4051,10th/Red River,4051,10th/Red River,3
+22923171,Local365,19401,electric,2020-09-29 18:16:49.000000 UTC,4051,10th/Red River,4051,10th/Red River,185
+22815179,Single Trip (Pay-as-you-ride),680,classic,2020-09-13 21:24:23.000000 UTC,4051,10th/Red River,4051,10th/Red River,22
+22910888,Explorer,23,classic,2020-09-27 16:27:40.000000 UTC,4051,10th/Red River,4051,10th/Red River,24
+22908864,Single Trip (Pay-as-you-ride),066G,classic,2020-09-27 12:28:01.000000 UTC,4051,10th/Red River,4051,10th/Red River,20
+20003253,3-Day Explorer,683,classic,2019-06-16 09:16:50.000000 UTC,2497,11th/Congress @ The Texas Capitol,4051,10th/Red River,8
+20203053,Single Trip ,138G,classic,2019-07-09 17:51:18.000000 UTC,2497,11th/Congress @ The Texas Capitol,4051,10th/Red River,125
+20203083,Single Trip ,136G,classic,2019-07-09 17:54:48.000000 UTC,2497,11th/Congress @ The Texas Capitol,4051,10th/Red River,122
+22427625,Local365,19367,electric,2020-07-21 15:15:01.000000 UTC,2497,11th/Congress @ The Texas Capitol,4051,10th/Red River,3
+22413006,Local365,16337,electric,2020-07-19 10:12:00.000000 UTC,2497,11th/Congress @ The Texas Capitol,4051,10th/Red River,7
+23230459,Local365,19470,electric,2020-11-23 07:47:28.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,32
+20031261,Local365,230,classic,2019-06-20 06:05:28.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,30
+19882453,Local365,627,classic,2019-06-01 06:48:34.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,28
+19898510,Local365,3113,classic,2019-06-03 07:01:26.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,59
+19929636,Local365,302,classic,2019-06-07 06:29:53.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,80
+19906896,Local365,136G,classic,2019-06-04 09:15:35.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,37
+19922712,Local365,281,classic,2019-06-06 08:21:46.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,33
+19985210,Local365,822,classic,2019-06-14 08:16:31.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,26
+19977474,Local365,198BB,electric,2019-06-13 08:29:00.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,45
+20003288,3-Day Explorer,575,classic,2019-06-16 09:21:36.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,3
+20087690,Local365+Guest Pass,334,classic,2019-06-26 18:45:33.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,2
+20099314,Local365,2255,classic,2019-06-28 07:13:39.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,37
+20303912,Local365+Guest Pass,1835,classic,2019-07-21 11:41:55.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,26
+20292432,Local365+Guest Pass,113G,classic,2019-07-19 20:09:04.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,6
+20393756,Local365+Guest Pass,2304,classic,2019-07-30 21:02:53.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,8
+21981563,Local365,3541,classic,2020-05-19 18:57:54.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,2
+21985132,Local365,263G,classic,2020-05-20 11:58:47.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,3
+22025128,24 Hour Walk Up Pass,16974,electric,2020-05-25 12:22:06.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,102
+22101140,Local365,180,classic,2020-06-04 22:48:52.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,3
+22156167,Local365,19090,electric,2020-06-13 01:03:29.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,4
+22124034,Local365,258G,classic,2020-06-08 01:19:43.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,3
+22345946,Local365,19869,electric,2020-07-09 23:38:23.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,4
+22903559,Local31,17460,electric,2020-09-26 18:27:00.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,3
+22757295,Single Trip (Pay-as-you-ride),16276,electric,2020-09-05 22:18:23.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,20
+22757283,Single Trip (Pay-as-you-ride),12764,classic,2020-09-05 22:17:37.000000 UTC,3291,11th/San Jacinto,4051,10th/Red River,21
+22959831,Local365,2286,classic,2020-10-05 07:50:41.000000 UTC,2561,12th/San Jacinto @ State Capitol Visitors Garage,4051,10th/Red River,3
+23006486,Local31,19185,electric,2020-10-11 18:06:44.000000 UTC,2561,12th/San Jacinto @ State Capitol Visitors Garage,4051,10th/Red River,41
+23362706,Explorer,17374,electric,2020-12-29 14:58:13.000000 UTC,2561,12th/San Jacinto @ State Capitol Visitors Garage,4051,10th/Red River,6
+22910276,Explorer,666,classic,2020-09-27 15:29:58.000000 UTC,2561,12th/San Jacinto @ State Capitol Visitors Garage,4051,10th/Red River,56
+22910290,Explorer,14,classic,2020-09-27 15:30:57.000000 UTC,2561,12th/San Jacinto @ State Capitol Visitors Garage,4051,10th/Red River,51
+22910284,Explorer,928,classic,2020-09-27 15:30:35.000000 UTC,2561,12th/San Jacinto @ State Capitol Visitors Garage,4051,10th/Red River,52
+21920716,Local30,19185,electric,2020-05-10 13:27:09.000000 UTC,3635,13th/San Antonio,4051,10th/Red River,22
+22796459,Local31,19745,electric,2020-09-11 19:50:33.000000 UTC,3635,13th/San Antonio,4051,10th/Red River,8
+23080325,Local365,19265,electric,2020-10-24 15:36:16.000000 UTC,3798,21st/Speedway @ PCL,4051,10th/Red River,12
+23278362,Local31,17460,electric,2020-12-05 16:12:09.000000 UTC,3797,21st/University,4051,10th/Red River,43
+20974813,Pay-as-you-ride,2304,classic,2019-10-04 12:36:16.000000 UTC,3797,21st/University,4051,10th/Red River,55
+20974802,Pay-as-you-ride,188,classic,2019-10-04 12:35:35.000000 UTC,3797,21st/University,4051,10th/Red River,56
+21127205,U.T. Student Membership,3405,classic,2019-10-22 20:10:21.000000 UTC,3797,21st/University,4051,10th/Red River,12
+20823788,Local30,210,classic,2019-09-17 14:19:40.000000 UTC,3792,22nd/Pearl,4051,10th/Red River,19
+21211627,Local365,1795,classic,2019-11-06 15:52:15.000000 UTC,3792,22nd/Pearl,4051,10th/Red River,12
+21248511,Local365,311,classic,2019-11-14 17:04:02.000000 UTC,3792,22nd/Pearl,4051,10th/Red River,12
+22985424,24 Hour Walk Up Pass,261G,classic,2020-10-09 12:30:38.000000 UTC,3799,23rd/San Jacinto @ DKR Stadium,4051,10th/Red River,700
+23148940,Pay-as-you-ride,19646,electric,2020-11-07 12:53:16.000000 UTC,3793,28th/Rio Grande,4051,10th/Red River,43
+23187493,Local365,19328,electric,2020-11-14 10:55:33.000000 UTC,3793,28th/Rio Grande,4051,10th/Red River,18
+23349772,Local31,18792,electric,2020-12-26 20:24:41.000000 UTC,2494,2nd/Congress,4051,10th/Red River,31
+21963657,Explorer,387,classic,2020-05-17 00:31:14.000000 UTC,2494,2nd/Congress,4051,10th/Red River,45
+21987301,Local365,18995,electric,2020-05-20 17:30:02.000000 UTC,2494,2nd/Congress,4051,10th/Red River,38
+22849649,3-Day Weekender,19646,electric,2020-09-19 10:28:50.000000 UTC,2494,2nd/Congress,4051,10th/Red River,63
+23138979,Local31,19935,electric,2020-11-05 18:32:53.000000 UTC,2499,2nd/Lavaca @ City Hall,4051,10th/Red River,43
+23140013,24 Hour Walk Up Pass,1434,classic,2020-11-06 00:25:32.000000 UTC,2499,2nd/Lavaca @ City Hall,4051,10th/Red River,47
+23312767,24 Hour Walk Up Pass,19148,electric,2020-12-15 21:01:58.000000 UTC,3621,3rd/Nueces,4051,10th/Red River,11
+20477665,Local365,976,classic,2019-08-09 11:51:27.000000 UTC,3621,3rd/Nueces,4051,10th/Red River,10
+23125337,Local31,19675,electric,2020-11-02 21:06:02.000000 UTC,2539,3rd/Trinity @ The Convention Center,4051,10th/Red River,40
+23262474,Local31,12740,classic,2020-12-01 11:08:59.000000 UTC,2539,3rd/Trinity @ The Convention Center,4051,10th/Red River,41
+21138628,Explorer,393,classic,2019-10-24 15:37:46.000000 UTC,2539,3rd/Trinity @ The Convention Center,4051,10th/Red River,55
+21138629,Explorer,84,classic,2019-10-24 15:37:55.000000 UTC,2539,3rd/Trinity @ The Convention Center,4051,10th/Red River,55
+23197143,Local365,19427,electric,2020-11-15 21:17:43.000000 UTC,2552,3rd/West,4051,10th/Red River,40
+21378521,Single Trip (Pay-as-you-ride),035G,classic,2019-12-15 21:22:56.000000 UTC,2552,3rd/West,4051,10th/Red River,12
+22525247,Local365,19606,electric,2020-08-05 10:41:51.000000 UTC,2552,3rd/West,4051,10th/Red River,42
+20666579,Annual Membership,370,classic,2019-08-31 20:12:41.000000 UTC,2495,4th/Congress,4051,10th/Red River,8
+20666578,Annual Membership,178,classic,2019-08-31 20:12:38.000000 UTC,2495,4th/Congress,4051,10th/Red River,9
+23148036,Local31,19461,electric,2020-11-07 11:30:41.000000 UTC,3455,4th/Guadalupe @ Republic Square,4051,10th/Red River,32
+21375937,Explorer,442,classic,2019-12-15 10:06:47.000000 UTC,3455,4th/Guadalupe @ Republic Square,4051,10th/Red River,9
+22769153,24 Hour Walk Up Pass,19745,electric,2020-09-07 08:40:00.000000 UTC,3455,4th/Guadalupe @ Republic Square,4051,10th/Red River,15
+23170741,Local365,19780,electric,2020-11-10 22:15:19.000000 UTC,2501,5th/Bowie,4051,10th/Red River,95
+23235704,Local365,18331,electric,2020-11-24 10:55:20.000000 UTC,2501,5th/Bowie,4051,10th/Red River,47
+21911843,Local30,18913,electric,2020-05-09 12:45:20.000000 UTC,2501,5th/Bowie,4051,10th/Red River,57
+20110976,Local30,843,classic,2019-06-29 12:22:02.000000 UTC,3455,5th/Guadalupe @ Republic Square,4051,10th/Red River,13
+23104843,Local31,19849,electric,2020-10-30 09:40:19.000000 UTC,3390,6th/Brazos,4051,10th/Red River,42
+23063671,3-Day Weekender,17460,electric,2020-10-21 12:04:38.000000 UTC,3390,6th/Brazos,4051,10th/Red River,28
+20493330,Local365,4,classic,2019-08-10 23:48:57.000000 UTC,3390,6th/Brazos,4051,10th/Red River,8
+23310642,Local365,17635,electric,2020-12-14 21:19:56.000000 UTC,3619,6th/Congress,4051,10th/Red River,28
+20253453,Local365,963,classic,2019-07-15 10:08:52.000000 UTC,3619,6th/Congress,4051,10th/Red River,152
+22754139,24 Hour Walk Up Pass,19783,electric,2020-09-05 17:24:09.000000 UTC,3619,6th/Congress,4051,10th/Red River,16
+19989599,3-Day Explorer,902,classic,2019-06-14 16:41:26.000000 UTC,2565,6th/Trinity,4051,10th/Red River,7
+19993174,3-Day Explorer,853,classic,2019-06-15 00:51:19.000000 UTC,2565,6th/Trinity,4051,10th/Red River,466
+19993182,24 Hour Walk Up Pass,266,classic,2019-06-15 00:54:33.000000 UTC,2565,6th/Trinity,4051,10th/Red River,463
+19989598,3-Day Explorer,549,classic,2019-06-14 16:41:13.000000 UTC,2565,6th/Trinity,4051,10th/Red River,7
+20178966,3-Day Explorer,1782,classic,2019-07-06 21:08:17.000000 UTC,2565,6th/Trinity,4051,10th/Red River,4
+20178967,3-Day Explorer,2242,classic,2019-07-06 21:08:24.000000 UTC,2565,6th/Trinity,4051,10th/Red River,4
+21384152,Pay-as-you-ride,869,classic,2019-12-17 22:07:56.000000 UTC,2565,6th/Trinity,4051,10th/Red River,8
+23271525,Local365,18684,electric,2020-12-04 08:50:34.000000 UTC,2537,6th/West,4051,10th/Red River,43
+23270827,Local365,19265,electric,2020-12-03 18:28:18.000000 UTC,2537,6th/West,4051,10th/Red River,9
+20088312,Local365,303,classic,2019-06-26 19:46:10.000000 UTC,2537,6th/West,4051,10th/Red River,14
+20088277,Local365,661,classic,2019-06-26 19:42:31.000000 UTC,2537,6th/West,4051,10th/Red River,18
+20543405,Local365,400,classic,2019-08-17 12:17:50.000000 UTC,2537,6th/West,4051,10th/Red River,11
+20678106,Single Trip Ride,2108,classic,2019-09-01 22:47:38.000000 UTC,2537,6th/West,4051,10th/Red River,65
+22966745,Local31,17370,electric,2020-10-06 11:59:11.000000 UTC,2496,8th/Congress,4051,10th/Red River,4
+23074346,Local31,19214,electric,2020-10-23 14:58:09.000000 UTC,2496,8th/Congress,4051,10th/Red River,8
+23262089,Local365,1851,classic,2020-12-01 08:47:43.000000 UTC,2496,8th/Congress,4051,10th/Red River,7
+20083095,3-Day Explorer,302,classic,2019-06-26 11:16:59.000000 UTC,2496,8th/Congress,4051,10th/Red River,7
+20071222,Local30,1932,classic,2019-06-24 19:54:18.000000 UTC,4047,8th/Lavaca,4051,10th/Red River,6
+23073584,Local365,16418,electric,2020-10-23 12:31:47.000000 UTC,2571,8th/Red River,4051,10th/Red River,17
+19946314,Single Trip ,2097,classic,2019-06-09 05:00:08.000000 UTC,2571,8th/Red River,4051,10th/Red River,2183
+20209806,3-Day Explorer,391,classic,2019-07-10 15:22:07.000000 UTC,2571,8th/Red River,4051,10th/Red River,4
+20269080,24 Hour Walk Up Pass,353G,classic,2019-07-17 02:21:53.000000 UTC,2571,8th/Red River,4051,10th/Red River,456
+20133394,Single Trip ,647,classic,2019-07-01 21:07:25.000000 UTC,2571,8th/Red River,4051,10th/Red River,10
+20133399,Single Trip ,572,classic,2019-07-01 21:08:31.000000 UTC,2571,8th/Red River,4051,10th/Red River,9
+20214727,3-Day Explorer,588,classic,2019-07-11 08:14:14.000000 UTC,2571,8th/Red River,4051,10th/Red River,5
+21276253,Single Trip (Pay-as-you-ride),546,classic,2019-11-20 07:12:07.000000 UTC,2571,8th/Red River,4051,10th/Red River,49
+22070586,24 Hour Walk Up Pass,19376,electric,2020-05-31 01:07:47.000000 UTC,2571,8th/Red River,4051,10th/Red River,69
+22070594,24 Hour Walk Up Pass,011G,classic,2020-05-31 01:09:38.000000 UTC,2571,8th/Red River,4051,10th/Red River,1070
+22259643,Local365,19583,electric,2020-06-27 10:47:19.000000 UTC,2571,8th/Red River,4051,10th/Red River,451
+22227031,3-Day Weekender,19453,electric,2020-06-21 19:50:39.000000 UTC,2571,8th/Red River,4051,10th/Red River,11
+20276359,Local365,101,classic,2019-07-17 20:30:29.000000 UTC,2562,8th/San Jacinto,4051,10th/Red River,3
+20702916,Local365,554,classic,2019-09-04 16:00:05.000000 UTC,2562,8th/San Jacinto,4051,10th/Red River,935
+22987082,24 Hour Walk Up Pass,19678,electric,2020-10-09 15:59:08.000000 UTC,3685,9th/Henderson,4051,10th/Red River,43
+23069168,Local31,19319,electric,2020-10-22 13:16:32.000000 UTC,3685,9th/Henderson,4051,10th/Red River,9
+23337814,Local365,16322,electric,2020-12-23 10:49:49.000000 UTC,3685,9th/Henderson,4051,10th/Red River,41
+20771696,Local365,385,classic,2019-09-11 20:13:36.000000 UTC,3685,9th/Henderson,4051,10th/Red River,17
+21151825,Single Trip (Pay-as-you-ride),865,classic,2019-10-26 16:55:08.000000 UTC,3685,9th/Henderson,4051,10th/Red River,11
+20051669,24 Hour Walk Up Pass,206,classic,2019-06-22 13:35:03.000000 UTC,2572,Barton Springs Pool,4051,10th/Red River,82
+20051676,Explorer,956,classic,2019-06-22 13:35:20.000000 UTC,2572,Barton Springs Pool,4051,10th/Red River,82
+21115072,Local365+Guest Pass,815,classic,2019-10-21 11:14:38.000000 UTC,2567,Barton Springs/Bouldin @ Palmer Auditorium,4051,10th/Red River,21
+21369750,Explorer,109,classic,2019-12-13 14:13:48.000000 UTC,2567,Barton Springs/Bouldin @ Palmer Auditorium,4051,10th/Red River,23
+21369762,Explorer,1486,classic,2019-12-13 14:15:30.000000 UTC,2567,Barton Springs/Bouldin @ Palmer Auditorium,4051,10th/Red River,22
+22884557,Local31,16855,electric,2020-09-24 12:11:54.000000 UTC,2567,Barton Springs/Bouldin @ Palmer Auditorium,4051,10th/Red River,33
+20712369,24 Hour Walk Up Pass,180,classic,2019-09-05 15:12:33.000000 UTC,3684,Cesar Chavez/Congress,4051,10th/Red River,44
+20837008,Explorer,332,classic,2019-09-18 20:22:37.000000 UTC,3684,Cesar Chavez/Congress,4051,10th/Red River,16
+20712359,24 Hour Walk Up Pass,202G,classic,2019-09-05 15:11:06.000000 UTC,3684,Cesar Chavez/Congress,4051,10th/Red River,1149
+20041025,U.T. Student Membership,1439,classic,2019-06-21 09:28:21.000000 UTC,3794,Dean Keeton/Speedway ,4051,10th/Red River,11
+23073369,Local365,19529,electric,2020-10-23 11:52:29.000000 UTC,3795,Dean Keeton/Whitis,4051,10th/Red River,21
+23182252,Local365,1555,classic,2020-11-13 09:14:40.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,2
+20032600,Local365,885,classic,2019-06-20 10:00:11.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+20025054,Local365,478,classic,2019-06-19 10:08:29.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+20041063,Local365,3,classic,2019-06-21 09:34:36.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+19930853,Local365,101,classic,2019-06-07 09:45:41.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+20339189,Local365,843,classic,2019-07-25 08:43:00.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+20349207,Local365,278,classic,2019-07-26 09:37:36.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,6
+20450532,Local365,281G,classic,2019-08-06 09:23:35.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+20458710,Local365,553,classic,2019-08-07 09:22:27.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+20467371,Local365,97,classic,2019-08-08 09:38:16.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+20783687,Local365,321,classic,2019-09-13 09:43:31.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+20956794,Local365,429,classic,2019-10-02 09:49:07.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,2
+21143437,Local365,621,classic,2019-10-25 12:34:48.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+21122984,Local365,3201,classic,2019-10-22 12:56:00.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+21019188,Local365,398,classic,2019-10-09 14:05:11.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+21029052,Local365,14190,classic,2019-10-10 14:13:50.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+21299447,Local365,201,classic,2019-11-25 09:55:13.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,4
+21209039,Local365,009G,classic,2019-11-06 09:21:13.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+21202900,Local365,872,classic,2019-11-05 09:17:13.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,5
+21329568,Local365,968,classic,2019-12-04 09:54:30.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+22040365,Local30,19401,electric,2020-05-27 12:37:20.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,3
+22237238,Pay-as-you-ride,19194,electric,2020-06-23 17:58:08.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,6
+22237204,Pay-as-you-ride,19195,electric,2020-06-23 17:54:03.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,10
+22638496,Local365,19107,electric,2020-08-21 18:37:55.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,43
+22657968,Pay-as-you-ride,80,classic,2020-08-23 19:51:32.000000 UTC,2569,East 11th/San Marcos,4051,10th/Red River,5
+22070543,Pay-as-you-ride,391,classic,2020-05-31 00:53:57.000000 UTC,2568,East 11th/Victory Grill,4051,10th/Red River,1187
+23110118,3-Day Weekender,18726,electric,2020-10-31 10:42:21.000000 UTC,3292,East 4th/Chicon,4051,10th/Red River,13
+23110124,3-Day Weekender,19258,electric,2020-10-31 10:42:58.000000 UTC,3292,East 4th/Chicon,4051,10th/Red River,13
+22319321,Explorer,16322,electric,2020-07-05 16:47:43.000000 UTC,3660,East 6th/Medina,4051,10th/Red River,5
+22319323,Explorer,16946,electric,2020-07-05 16:47:53.000000 UTC,3660,East 6th/Medina,4051,10th/Red River,5
+22116711,Local365,16414,electric,2020-06-07 08:29:42.000000 UTC,2544,East 6th/Pedernales,4051,10th/Red River,53
+22116712,Local365,19775,electric,2020-06-07 08:29:57.000000 UTC,2544,East 6th/Pedernales,4051,10th/Red River,53
+23012031,Pay-as-you-ride,16936,electric,2020-10-12 17:27:49.000000 UTC,2566,Electric Drive/Sandra Muraida Way @ Pfluger Ped Bridge,4051,10th/Red River,139
+23011936,Pay-as-you-ride,19239,electric,2020-10-12 17:15:54.000000 UTC,2566,Electric Drive/Sandra Muraida Way @ Pfluger Ped Bridge,4051,10th/Red River,151
+21061854,24 Hour Walk Up Pass,377,classic,2019-10-14 18:17:47.000000 UTC,2566,Electric Drive/Sandra Muraida Way @ Pfluger Ped Bridge,4051,10th/Red River,18
+22384876,3-Day Weekender,18923,electric,2020-07-15 15:31:24.000000 UTC,2566,Electric Drive/Sandra Muraida Way @ Pfluger Ped Bridge,4051,10th/Red River,25
+22384875,3-Day Weekender,19258,electric,2020-07-15 15:31:12.000000 UTC,2566,Electric Drive/Sandra Muraida Way @ Pfluger Ped Bridge,4051,10th/Red River,25
+23353016,Explorer,16410,electric,2020-12-27 15:00:30.000000 UTC,3791,Lake Austin/Enfield,4051,10th/Red River,30
+23353014,Explorer,16276,electric,2020-12-27 15:00:16.000000 UTC,3791,Lake Austin/Enfield,4051,10th/Red River,30
+22226646,3-Day Weekender,19198,electric,2020-06-21 19:10:05.000000 UTC,4061,Lakeshore/Austin Hostel,4051,10th/Red River,51
+22226650,3-Day Weekender,19270,electric,2020-06-21 19:10:26.000000 UTC,4061,Lakeshore/Austin Hostel,4051,10th/Red River,51
+22226808,3-Day Weekender,19427,electric,2020-06-21 19:28:53.000000 UTC,4059,Nash Hernandez/East @ RBJ South,4051,10th/Red River,34
+21960669,Local30,17850,electric,2020-05-16 17:51:12.000000 UTC,2542,Plaza Saltillo,4051,10th/Red River,32
+22358793,24 Hour Walk Up Pass,19177,electric,2020-07-11 19:15:00.000000 UTC,2542,Plaza Saltillo,4051,10th/Red River,2799
+22851257,3-Day Weekender,16276,electric,2020-09-19 13:02:33.000000 UTC,2542,Plaza Saltillo,4051,10th/Red River,13
+23172442,24 Hour Walk Up Pass,17019,electric,2020-11-11 12:55:08.000000 UTC,2707,Rainey/Cummings,4051,10th/Red River,19
+21951955,Local365,19078,electric,2020-05-15 16:45:39.000000 UTC,2707,Rainey/Cummings,4051,10th/Red River,22
+22907194,Local365,340,classic,2020-09-27 08:09:17.000000 UTC,2707,Rainey/Cummings,4051,10th/Red River,13
+20167512,3-Day Explorer,610,classic,2019-07-05 19:25:04.000000 UTC,2563,Rainey/Davis,4051,10th/Red River,132
+20167508,3-Day Explorer,072G,classic,2019-07-05 19:24:54.000000 UTC,2563,Rainey/Davis,4051,10th/Red River,137
+22124051,Local365,17019,electric,2020-06-08 02:08:44.000000 UTC,2563,Rainey/Davis,4051,10th/Red River,12
+22109732,Pay-as-you-ride,18684,electric,2020-06-06 11:35:36.000000 UTC,2563,Rainey/Davis,4051,10th/Red River,272
+20048433,Single Trip ,080G,classic,2019-06-22 01:47:34.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th/Red River,413
+20827338,Single Trip Ride,376,classic,2019-09-17 19:33:45.000000 UTC,4060,Red River/Cesar Chavez @ The Fairmont,4051,10th/Red River,48
+20834412,Explorer,712,classic,2019-09-18 16:25:35.000000 UTC,2575,Riverside/South Lamar,4051,10th/Red River,29
+23324266,Local365,19775,electric,2020-12-19 20:53:44.000000 UTC,4054,Rosewood/Chicon,4051,10th/Red River,7
+23024559,3-Day Weekender,14143,classic,2020-10-14 17:05:44.000000 UTC,2549,South 1st/Riverside @ Long Center,4051,10th/Red River,20
+23315693,Explorer,19720,electric,2020-12-17 10:42:09.000000 UTC,2549,South 1st/Riverside @ Long Center,4051,10th/Red River,35
+23315696,Explorer,16936,electric,2020-12-17 10:42:45.000000 UTC,2549,South 1st/Riverside @ Long Center,4051,10th/Red River,34
+23086172,Pay-as-you-ride,16828,electric,2020-10-25 14:48:26.000000 UTC,4048,South Congress @ Bouldin Creek,4051,10th/Red River,12
+23086171,Pay-as-you-ride,19461,electric,2020-10-25 14:48:16.000000 UTC,4048,South Congress @ Bouldin Creek,4051,10th/Red River,12
+20119853,Single Trip Ride,5,classic,2019-06-30 11:34:50.000000 UTC,4048,South Congress @ Bouldin Creek,4051,10th/Red River,23
+22025342,Explorer,16935,electric,2020-05-25 12:44:33.000000 UTC,2570,South Congress/Academy,4051,10th/Red River,25
+20478024,Local365,241,classic,2019-08-09 12:33:19.000000 UTC,3513,South Congress/Barton Springs @ The Austin American-Statesman,4051,10th/Red River,10
+22755712,Local365,17370,electric,2020-09-05 19:26:14.000000 UTC,3513,South Congress/Barton Springs @ The Austin American-Statesman,4051,10th/Red River,10
+22865292,Explorer,19677,electric,2020-09-20 20:44:22.000000 UTC,3513,South Congress/Barton Springs @ The Austin American-Statesman,4051,10th/Red River,27
+19956072,Explorer,435,classic,2019-06-10 14:05:23.000000 UTC,2503,South Congress/James,4051,10th/Red River,23
+19956074,Explorer,349G,classic,2019-06-10 14:05:43.000000 UTC,2503,South Congress/James,4051,10th/Red River,23
+22943398,Local365,17374,electric,2020-10-03 08:53:41.000000 UTC,3377,Veterans/Atlanta @ MoPac Ped Bridge,4051,10th/Red River,20
+20159656,3-Day Explorer,640,classic,2019-07-04 22:29:20.000000 UTC,3377,Veterans/Atlanta @ MoPac Ped Bridge,4051,10th/Red River,620
+20159661,3-Day Explorer,2034,classic,2019-07-04 22:30:03.000000 UTC,3377,Veterans/Atlanta @ MoPac Ped Bridge,4051,10th/Red River,25
+19290792,HT Ram Membership,354G,classic,2019-02-17 17:19:39.000000 UTC,4051,10th & Red River,4055,11th & Salina ,11
+19252128,HT Ram Membership,1835,classic,2019-02-04 19:13:13.000000 UTC,4051,10th & Red River,4055,11th & Salina ,10
+19286236,HT Ram Membership,15029E,electric,2019-02-16 13:21:02.000000 UTC,4051,10th & Red River,4055,11th & Salina ,14
+18893693,24 Hour Walk Up Pass,288,classic,2018-10-27 22:53:43.000000 UTC,4051,10th & Red River,4055,11th & Salina ,12
+18893672,HT Ram Membership,3471,classic,2018-10-27 22:44:09.000000 UTC,4051,10th & Red River,4055,11th & Salina ,21
+19229721,HT Ram Membership,303G,classic,2019-01-29 11:18:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,67
+19199692,HT Ram Membership,877,classic,2019-01-18 20:23:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+19237217,HT Ram Membership,64,classic,2019-01-31 21:52:43.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+19237221,HT Ram Membership,371,classic,2019-01-31 21:54:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+19188844,HT Ram Membership,198BB,electric,2019-01-15 11:35:11.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19167876,HT Ram Membership,89,classic,2019-01-08 12:56:36.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+19153246,U.T. Student Membership,15040E,electric,2019-01-04 16:50:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19207942,HT Ram Membership,1224,classic,2019-01-21 20:10:54.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,865
+19208002,HT Ram Membership,091G,classic,2019-01-21 21:10:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19208878,HT Ram Membership,15074E,electric,2019-01-22 11:41:43.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,5
+19212977,HT Ram Membership,15029E,electric,2019-01-23 19:21:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,3
+19220348,HT Ram Membership,2887,classic,2019-01-26 14:12:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,29
+19221072,HT Ram Membership,1639,classic,2019-01-26 16:11:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,39
+19180582,HT Ram Membership,735,classic,2019-01-12 13:22:15.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19205265,HT Ram Membership,033G,classic,2019-01-20 23:02:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,19
+19224801,HT Ram Membership,134G,classic,2019-01-27 17:27:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,35
+19199743,HT Ram Membership,1687,classic,2019-01-18 20:55:25.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19208004,HT Ram Membership,1434,classic,2019-01-21 21:10:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19209372,HT Ram Membership,1434,classic,2019-01-22 14:21:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+19224792,HT Ram Membership,1782,classic,2019-01-27 17:26:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,36
+19227188,HT Ram Membership,2122B,electric,2019-01-28 16:04:03.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19229724,HT Ram Membership,377,classic,2019-01-29 11:20:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+19205121,HT Ram Membership,198BB,electric,2019-01-20 20:47:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,53
+19209369,HT Ram Membership,15074E,electric,2019-01-22 14:21:16.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+19182473,HT Ram Membership,1224,classic,2019-01-12 23:45:15.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+19199699,HT Ram Membership,198BB,electric,2019-01-18 20:25:23.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,20
+19199745,HT Ram Membership,091G,classic,2019-01-18 20:56:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19207940,HT Ram Membership,091G,classic,2019-01-21 20:10:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19221932,HT Ram Membership,1639,classic,2019-01-26 21:10:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,36
+19230502,HT Ram Membership,938,classic,2019-01-29 15:48:42.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,948
+19180589,HT Ram Membership,430,classic,2019-01-12 13:22:59.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19199696,HT Ram Membership,091G,classic,2019-01-18 20:24:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+19218694,HT Ram Membership,15074E,electric,2019-01-25 20:30:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+19229726,HT Ram Membership,938,classic,2019-01-29 11:21:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19212548,HT Ram Membership,15029E,electric,2019-01-23 17:25:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,33
+19240734,HT Ram Membership,306,classic,2019-02-01 22:46:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+19275361,HT Ram Membership,995,classic,2019-02-13 16:38:22.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19290469,HT Ram Membership,133,classic,2019-02-17 16:18:15.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19288179,HT Ram Membership,15029E,electric,2019-02-16 23:54:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19290970,HT Ram Membership,133,classic,2019-02-17 17:58:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+19248600,HT Ram Membership,240,classic,2019-02-03 21:03:03.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19322151,HT Ram Membership,151G,classic,2019-02-27 15:03:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,47
+19256369,HT Ram Membership,1835,classic,2019-02-05 16:56:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,57
+19259051,HT Ram Membership,305G,classic,2019-02-06 15:26:22.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,46
+19238332,HT Ram Membership,371,classic,2019-02-01 12:37:32.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,36
+19248551,HT Ram Membership,15074E,electric,2019-02-03 20:37:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,20
+19257436,HT Ram Membership,240,classic,2019-02-05 21:41:11.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,829
+19248562,HT Ram Membership,1835,classic,2019-02-03 20:42:21.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19256388,HT Ram Membership,305G,classic,2019-02-05 16:59:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,54
+19261231,HT Ram Membership,240,classic,2019-02-07 13:28:26.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19288184,HT Ram Membership,136G,classic,2019-02-16 23:58:02.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19321818,HT Ram Membership,151G,classic,2019-02-27 13:33:22.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,45
+19246990,HT Ram Membership,1835,classic,2019-02-03 14:46:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,52
+19256273,HT Ram Membership,1835,classic,2019-02-05 16:35:35.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19272941,HT Ram Membership,995,classic,2019-02-12 20:21:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+19288055,HT Ram Membership,397,classic,2019-02-16 22:20:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19290966,HT Ram Membership,136G,classic,2019-02-17 17:57:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,25
+19238328,HT Ram Membership,2124,classic,2019-02-01 12:36:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,38
+19248604,HT Ram Membership,375G,classic,2019-02-03 21:06:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19272915,HT Ram Membership,893,classic,2019-02-12 20:11:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+19288186,HT Ram Membership,133,classic,2019-02-16 23:59:25.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19290210,HT Ram Membership,136G,classic,2019-02-17 15:40:38.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+19240735,HT Ram Membership,417,classic,2019-02-01 22:46:58.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+19256407,U.T. Student Membership,2048,classic,2019-02-05 17:03:03.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,1107
+19257446,HT Ram Membership,305G,classic,2019-02-05 21:43:25.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,827
+19282066,HT Ram Membership,136G,classic,2019-02-15 12:44:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+19302060,HT Ram Membership,136G,classic,2019-02-21 17:12:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+19315319,HT Ram Membership,663,classic,2019-02-25 13:52:03.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+19318193,HT Ram Membership,166,classic,2019-02-26 12:33:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+19257185,HT Ram Membership,1835,classic,2019-02-05 19:27:57.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,963
+19316764,HT Ram Membership,166,classic,2019-02-25 19:38:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19317972,HT Ram Membership,166,classic,2019-02-26 11:23:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,48
+19317975,HT Ram Membership,663,classic,2019-02-26 11:24:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,47
+19442872,HT Ram Membership,156,classic,2019-03-26 14:56:35.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,3
+19379486,HT Ram Membership,057G,classic,2019-03-14 21:18:23.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+19390884,HT Ram Membership,640,classic,2019-03-17 11:14:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19368457,HT Ram Membership,473,classic,2019-03-12 15:32:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19346912,HT Ram Membership,57,classic,2019-03-08 10:21:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,79
+19434794,HT Ram Membership,2283,classic,2019-03-24 20:53:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19331829,HT Ram Membership,1586,classic,2019-03-02 13:31:57.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,34
+19395198,HT Ram Membership,1545,classic,2019-03-17 19:29:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+19349100,Local30,41,classic,2019-03-08 17:10:51.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19368454,HT Ram Membership,191,classic,2019-03-12 15:32:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19381229,HT Ram Membership,226,classic,2019-03-15 12:01:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19438381,HT Ram Membership,1803,classic,2019-03-25 16:55:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19444346,HT Ram Membership,156,classic,2019-03-26 18:15:36.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,90
+19406041,HT Ram Membership,273G,classic,2019-03-20 00:14:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,35
+19406061,HT Ram Membership,110,classic,2019-03-20 00:52:15.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19411591,HT Ram Membership,2097,classic,2019-03-20 22:17:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19411531,HT Ram Membership,273G,classic,2019-03-20 21:43:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,32
+19341040,HT Ram Membership,161,classic,2019-03-06 15:44:41.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,46
+19359683,HT Ram Membership,273G,classic,2019-03-10 19:55:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,39
+19365614,HT Ram Membership,1585,classic,2019-03-11 22:40:03.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+19367260,HT Ram Membership,854,classic,2019-03-12 12:00:10.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+19368588,HT Ram Membership,191,classic,2019-03-12 15:51:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19368591,HT Ram Membership,1585,classic,2019-03-12 15:51:53.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19371090,HT Ram Membership,460,classic,2019-03-13 07:08:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+19372089,HT Ram Membership,134G,classic,2019-03-13 12:48:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+19372292,HT Ram Membership,134G,classic,2019-03-13 13:22:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19381226,HT Ram Membership,057G,classic,2019-03-15 12:00:35.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19406009,HT Ram Membership,110,classic,2019-03-19 23:27:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,45
+19411522,HT Ram Membership,2097,classic,2019-03-20 21:38:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,38
+19411588,HT Ram Membership,1641,classic,2019-03-20 22:15:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19414456,HT Ram Membership,273G,classic,2019-03-21 15:38:56.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,30
+19416769,HT Ram Membership,1641,classic,2019-03-22 02:19:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,8
+19439929,HT Ram Membership,1803,classic,2019-03-25 21:06:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,39
+19439932,HT Ram Membership,088G,classic,2019-03-25 21:07:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,38
+19451894,HT Ram Membership,303,classic,2019-03-27 23:08:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+19453142,HT Ram Membership,315,classic,2019-03-28 10:32:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19457871,HT Ram Membership,134,classic,2019-03-28 20:31:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,43
+19457997,Local365,277,classic,2019-03-28 21:14:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+19458097,HT Ram Membership,15056E,electric,2019-03-28 21:39:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,7
+19463384,HT Ram Membership,1795,classic,2019-03-29 23:25:58.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,33
+19464386,HT Ram Membership,1795,classic,2019-03-30 11:09:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19365090,HT Ram Membership,1585,classic,2019-03-11 19:53:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19375661,HT Ram Membership,246G,classic,2019-03-14 10:40:35.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,35
+19379720,HT Ram Membership,057G,classic,2019-03-14 23:09:54.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+19406040,HT Ram Membership,110,classic,2019-03-20 00:14:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,36
+19406046,HT Ram Membership,2097,classic,2019-03-20 00:16:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+19406060,HT Ram Membership,2077,classic,2019-03-20 00:50:58.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19434244,Local365,255G,classic,2019-03-24 19:10:14.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,34
+19440149,HT Ram Membership,1803,classic,2019-03-25 22:58:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19442957,HT Ram Membership,156,classic,2019-03-26 15:11:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,40
+19388865,HT Ram Membership,640,classic,2019-03-16 18:15:43.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,19
+19406054,HT Ram Membership,2077,classic,2019-03-20 00:27:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19410843,HT Ram Membership,2097,classic,2019-03-20 18:44:51.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,7
+19411590,HT Ram Membership,273G,classic,2019-03-20 22:16:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19415503,HT Ram Membership,1641,classic,2019-03-21 18:02:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,8
+19427597,HT Ram Membership,871,classic,2019-03-23 18:18:02.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+19450714,HT Ram Membership,255G,classic,2019-03-27 18:48:14.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+19450717,HT Ram Membership,2097,classic,2019-03-27 18:48:26.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+19451693,HT Ram Membership,2097,classic,2019-03-27 21:18:57.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19464388,HT Ram Membership,15056E,electric,2019-03-30 11:09:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19340930,HT Ram Membership,161,classic,2019-03-06 15:14:10.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+19346927,HT Ram Membership,161,classic,2019-03-08 10:24:36.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19359702,HT Ram Membership,352,classic,2019-03-10 19:57:25.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,40
+19361952,HT Ram Membership,1585,classic,2019-03-11 12:54:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19365616,HT Ram Membership,854,classic,2019-03-11 22:40:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+19365948,HT Ram Membership,15027E,electric,2019-03-12 07:11:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,44
+19371627,HT Ram Membership,354G,classic,2019-03-13 11:06:33.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,35
+19372291,HT Ram Membership,354G,classic,2019-03-13 13:22:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19378852,HT Ram Membership,057G,classic,2019-03-14 19:07:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,20
+19407196,HT Ram Membership,2097,classic,2019-03-20 07:22:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,48
+19411587,HT Ram Membership,2077,classic,2019-03-20 22:15:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19411853,HT Ram Membership,2097,classic,2019-03-21 07:15:33.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,44
+19415497,HT Ram Membership,273G,classic,2019-03-21 18:01:54.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19416768,HT Ram Membership,2077,classic,2019-03-22 02:19:33.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,8
+19431123,HT Ram Membership,509,classic,2019-03-24 13:27:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,38
+19431876,HT Ram Membership,509,classic,2019-03-24 14:45:18.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,31
+19435162,HT Ram Membership,341,classic,2019-03-25 00:46:58.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19451329,HT Ram Membership,2097,classic,2019-03-27 19:56:02.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19457326,HT Ram Membership,15056E,electric,2019-03-28 18:57:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19463383,HT Ram Membership,15056E,electric,2019-03-29 23:25:56.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,33
+19464502,HT Ram Membership,1795,classic,2019-03-30 11:33:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19356550,Single Trip Ride,870,classic,2019-03-10 13:09:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19361946,HT Ram Membership,870,classic,2019-03-11 12:53:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+19365083,HT Ram Membership,473,classic,2019-03-11 19:52:28.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19373805,HT Ram Membership,354G,classic,2019-03-13 17:53:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,30
+19379484,HT Ram Membership,640,classic,2019-03-14 21:18:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+19379716,HT Ram Membership,123,classic,2019-03-14 23:08:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+19402733,HT Ram Membership,2077,classic,2019-03-19 11:22:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,5
+19406002,HT Ram Membership,2077,classic,2019-03-19 23:23:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,50
+19406022,HT Ram Membership,2097,classic,2019-03-19 23:45:16.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+19419003,HT Ram Membership,273G,classic,2019-03-22 13:29:41.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+19419006,HT Ram Membership,1641,classic,2019-03-22 13:30:28.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,58
+19438050,HT Ram Membership,1803,classic,2019-03-25 16:08:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,19
+19438379,HT Ram Membership,088G,classic,2019-03-25 16:55:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19439776,HT Ram Membership,1803,classic,2019-03-25 20:25:22.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,8
+19440148,HT Ram Membership,088G,classic,2019-03-25 22:58:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+19442913,HT Ram Membership,156,classic,2019-03-26 15:04:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,7
+19451326,HT Ram Membership,255G,classic,2019-03-27 19:55:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19451695,HT Ram Membership,303,classic,2019-03-27 21:19:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+19457881,HT Ram Membership,15056E,electric,2019-03-28 20:34:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,40
+19346915,HT Ram Membership,571,classic,2019-03-08 10:22:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,79
+19372093,HT Ram Membership,354G,classic,2019-03-13 12:49:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+19376647,HT Ram Membership,246G,classic,2019-03-14 13:41:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,4
+19378854,HT Ram Membership,1475,classic,2019-03-14 19:07:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,20
+19395187,HT Ram Membership,640,classic,2019-03-17 19:28:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,28
+19411526,HT Ram Membership,2077,classic,2019-03-20 21:39:51.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,35
+19420062,HT Ram Membership,1641,classic,2019-03-22 15:38:41.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+19453295,HT Ram Membership,315,classic,2019-03-28 10:53:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,8
+19458244,HT Ram Membership,15056E,electric,2019-03-28 22:58:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19461407,HT Ram Membership,160,classic,2019-03-29 15:54:10.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,8
+19464905,HT Ram Membership,315,classic,2019-03-30 12:38:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,275
+19359681,HT Ram Membership,870,classic,2019-03-10 19:54:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,40
+19367258,HT Ram Membership,473,classic,2019-03-12 11:59:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+19371626,HT Ram Membership,134G,classic,2019-03-13 11:06:32.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,35
+19372101,HT Ram Membership,445,classic,2019-03-13 12:51:51.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,7
+19372290,HT Ram Membership,445,classic,2019-03-13 13:22:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19373873,HT Ram Membership,445,classic,2019-03-13 18:05:35.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19374872,HT Ram Membership,460,classic,2019-03-13 23:12:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19406044,HT Ram Membership,2077,classic,2019-03-20 00:15:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19411520,HT Ram Membership,110,classic,2019-03-20 21:36:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,36
+19431119,HT Ram Membership,663,classic,2019-03-24 13:26:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,39
+19440365,HT Ram Membership,230,classic,2019-03-26 07:03:58.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,44
+19451892,HT Ram Membership,315,classic,2019-03-27 23:07:59.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19461295,HT Ram Membership,1795,classic,2019-03-29 15:36:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19461298,HT Ram Membership,15056E,electric,2019-03-29 15:37:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+19462941,HT Ram Membership,1795,classic,2019-03-29 20:29:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+19464561,HT Ram Membership,315,classic,2019-03-30 11:41:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+19641517,HT Ram Membership,126G,classic,2019-04-26 14:51:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,75
+19549475,HT Ram Membership,860,classic,2019-04-13 17:46:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,84
+19537517,HT Ram Membership,040G,classic,2019-04-11 15:11:18.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,93
+19522312,HT Ram Membership,1441,classic,2019-04-08 20:51:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,541
+19629718,HT Ram Membership,106G,classic,2019-04-24 19:01:31.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,1129
+19629705,HT Ram Membership,242,classic,2019-04-24 19:00:32.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,79
+19534302,HT Ram Membership,15056E,electric,2019-04-10 19:43:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,100
+19534324,HT Ram Membership,548,classic,2019-04-10 19:48:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,95
+19534691,HT Ram Membership,040G,classic,2019-04-10 21:51:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,80
+19493591,HT Ram Membership,164,classic,2019-04-04 22:49:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,70
+19493554,HT Ram Membership,870,classic,2019-04-04 22:33:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,73
+19523458,HT Ram Membership,870,classic,2019-04-09 08:41:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,70
+19476773,HT Ram Membership,15056E,electric,2019-04-01 22:11:26.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19482325,HT Ram Membership,15040E,electric,2019-04-02 23:31:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+19482165,HT Ram Membership,15040E,electric,2019-04-02 21:48:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+19484401,HT Ram Membership,15056E,electric,2019-04-03 12:36:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19644141,HT Ram Membership,571,classic,2019-04-26 18:50:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,78
+19490389,HT Ram Membership,870,classic,2019-04-04 14:03:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,101
+19520123,HT Ram Membership,1795,classic,2019-04-08 17:07:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,85
+19637644,HT Ram Membership,1786,classic,2019-04-25 23:39:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,125
+19537506,HT Ram Membership,356,classic,2019-04-11 15:10:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,93
+19534311,HT Ram Membership,1441,classic,2019-04-10 19:44:26.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,99
+19499526,HT Ram Membership,15031E,electric,2019-04-05 18:36:53.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,75
+19521689,HT Ram Membership,040G,classic,2019-04-08 19:20:18.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,85
+19581688,HT Ram Membership,224,classic,2019-04-18 15:46:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,95
+19644156,HT Ram Membership,126G,classic,2019-04-26 18:51:03.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,76
+19666297,HT Ram Membership,2887,classic,2019-04-29 20:25:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,65
+19500650,HT Ram Membership,15030E,electric,2019-04-05 21:38:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,70
+19499976,HT Ram Membership,870,classic,2019-04-05 19:31:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,63
+19510728,HT Ram Membership,15030E,electric,2019-04-07 12:21:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,65
+19511111,HT Ram Membership,040G,classic,2019-04-07 13:19:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,73
+19522553,HT Ram Membership,1795,classic,2019-04-08 21:55:01.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,71
+19514178,HT Ram Membership,1441,classic,2019-04-07 19:12:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,84
+19514427,HT Ram Membership,1441,classic,2019-04-07 19:44:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,851
+19520131,HT Ram Membership,1441,classic,2019-04-08 17:08:23.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,84
+19482326,HT Ram Membership,15056E,electric,2019-04-02 23:32:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+19484399,HT Ram Membership,57,classic,2019-04-03 12:35:53.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+19487784,HT Ram Membership,040G,classic,2019-04-03 23:36:14.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+19476774,HT Ram Membership,15040E,electric,2019-04-01 22:11:32.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+19568994,HT Ram Membership,898,classic,2019-04-16 17:09:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,70
+19529772,HT Ram Membership,15026E,electric,2019-04-09 22:50:22.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,71
+19658789,HT Ram Membership,2887,classic,2019-04-28 17:02:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,69
+19482185,HT Ram Membership,856,classic,2019-04-02 22:00:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,73
+19522262,HT Ram Membership,040G,classic,2019-04-08 20:40:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,84
+19547575,HT Ram Membership,869,classic,2019-04-13 13:35:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,69
+19571365,HT Ram Membership,898,classic,2019-04-16 22:23:43.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,65
+19624005,HT Ram Membership,106G,classic,2019-04-23 21:39:22.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,67
+19616145,HT Ram Membership,242,classic,2019-04-22 19:16:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,63
+19523432,HT Ram Membership,040G,classic,2019-04-09 08:37:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+19529029,HT Ram Membership,15026E,electric,2019-04-09 19:47:32.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,64
+19556133,HT Ram Membership,869,classic,2019-04-14 18:36:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,63
+19539570,HT Ram Membership,3201,classic,2019-04-11 19:52:56.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,69
+19482222,HT Ram Membership,1277,classic,2019-04-02 22:13:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,778
+19521684,HT Ram Membership,1795,classic,2019-04-08 19:19:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,85
+19529573,HT Ram Membership,15026E,electric,2019-04-09 21:39:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,88
+19641512,HT Ram Membership,571,classic,2019-04-26 14:50:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,76
+19482225,HT Ram Membership,15040E,electric,2019-04-02 22:16:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+19653943,HT Ram Membership,878,classic,2019-04-27 23:56:51.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,79
+19486756,HT Ram Membership,040G,classic,2019-04-03 18:20:16.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,32
+19482267,HT Ram Membership,15056E,electric,2019-04-02 22:39:16.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,34
+19522321,HT Ram Membership,1795,classic,2019-04-08 20:53:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,73
+19534183,HT Ram Membership,15056E,electric,2019-04-10 19:26:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,68
+19501059,HT Ram Membership,15031E,electric,2019-04-05 23:49:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+19545092,HT Ram Membership,869,classic,2019-04-12 19:23:23.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,97
+19534309,HT Ram Membership,356,classic,2019-04-10 19:43:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,100
+19523452,HT Ram Membership,164,classic,2019-04-09 08:40:14.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,71
+19539573,HT Ram Membership,040G,classic,2019-04-11 19:53:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,67
+19485381,HT Ram Membership,15056E,electric,2019-04-03 15:16:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,33
+19493556,HT Ram Membership,1967,classic,2019-04-04 22:33:56.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,86
+19514094,HT Ram Membership,870,classic,2019-04-07 19:05:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,890
+19523025,HT Ram Membership,040G,classic,2019-04-09 06:40:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,99
+19528890,HT Ram Membership,15026E,electric,2019-04-09 19:27:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,76
+19475786,HT Ram Membership,15040E,electric,2019-04-01 18:02:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19648655,HT Ram Membership,242,classic,2019-04-27 12:49:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,76
+19529577,HT Ram Membership,040G,classic,2019-04-09 21:40:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,86
+19632030,HT Ram Membership,242,classic,2019-04-25 09:32:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+19557371,HT Ram Membership,12811,classic,2019-04-14 23:02:43.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,91
+19557377,HT Ram Membership,860,classic,2019-04-14 23:04:42.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,89
+19648423,Single Trip ,126G,classic,2019-04-27 12:27:58.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+19475780,HT Ram Membership,544,classic,2019-04-01 18:02:33.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19475946,HT Ram Membership,15040E,electric,2019-04-01 18:26:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,36
+19539272,HT Ram Membership,1441,classic,2019-04-11 19:00:02.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,70
+19478928,HT Ram Membership,57,classic,2019-04-02 13:30:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,3
+19482220,HT Ram Membership,57,classic,2019-04-02 22:12:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,779
+19493558,HT Ram Membership,040G,classic,2019-04-04 22:34:35.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,86
+19529525,HT Ram Membership,15056E,electric,2019-04-09 21:26:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,78
+19530229,U.T. Student Membership,15056E,electric,2019-04-10 07:48:41.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+19668391,HT Ram Membership,571,classic,2019-04-30 12:31:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,60
+19499535,HT Ram Membership,870,classic,2019-04-05 18:38:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,73
+19475782,HT Ram Membership,315,classic,2019-04-01 18:02:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+19522563,HT Ram Membership,040G,classic,2019-04-08 21:58:10.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,68
+19529516,HT Ram Membership,356,classic,2019-04-09 21:25:02.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,58
+19534448,HT Ram Membership,040G,classic,2019-04-10 20:17:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,75
+19676737,HT Ram Membership,242,classic,2019-05-01 22:22:21.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,102
+19786408,Single Trip ,183,classic,2019-05-18 08:21:57.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,6005
+19707866,HT Ram Membership,683,classic,2019-05-05 21:47:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,32
+19682589,Single Trip ,683,classic,2019-05-02 20:38:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,98
+19686854,HT Ram Membership,046G,classic,2019-05-03 15:44:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+18269918,Walk Up,577,classic,2018-08-17 00:18:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,124
+18334223,Walk Up,109,classic,2018-08-23 22:22:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,104
+18334197,Walk Up,288,classic,2018-08-23 22:17:57.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,64
+18334199,Walk Up,247,classic,2018-08-23 22:18:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,63
+18334225,Walk Up,577,classic,2018-08-23 22:22:53.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+18374760,HT Ram Membership,577,classic,2018-08-27 21:52:53.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,138
+18456846,HT Ram Membership,161,classic,2018-09-04 19:07:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,4
+18598360,HT Ram Membership,1984,classic,2018-09-19 00:41:38.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,31
+18534175,HT Ram Membership,166,classic,2018-09-12 19:02:36.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,45
+18634690,HT Ram Membership,2299,classic,2018-09-22 18:13:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,41
+18575881,HT Ram Membership,341,classic,2018-09-16 19:14:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,30
+18537822,HT Ram Membership,276,classic,2018-09-13 09:33:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18531152,HT Ram Membership,361G,classic,2018-09-12 15:32:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+18611874,HT Ram Membership,1984,classic,2018-09-20 12:46:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,31
+18646799,HT Ram Membership,2122B,electric,2018-09-23 23:08:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,5
+18659828,HT Ram Membership,284,classic,2018-09-25 13:29:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+18669625,HT Ram Membership,765,classic,2018-09-26 14:47:10.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,30
+18673319,HT Ram Membership,190,classic,2018-09-26 20:24:41.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,4
+18611882,HT Ram Membership,247,classic,2018-09-20 12:47:00.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,30
+18607600,HT Ram Membership,247,classic,2018-09-19 20:13:16.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,67
+18608102,HT Ram Membership,1984,classic,2018-09-19 21:24:26.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,7
+18535530,HT Ram Membership,276,classic,2018-09-12 21:27:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,51
+18535508,HT Ram Membership,166,classic,2018-09-12 21:24:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,162
+18607588,HT Ram Membership,655,classic,2018-09-19 20:11:54.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,69
+18653004,HT Ram Membership,348,classic,2018-09-24 17:26:53.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,3
+18653062,HT Ram Membership,2122B,electric,2018-09-24 17:31:16.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+18546933,Walk Up,188,classic,2018-09-14 00:50:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,4
+18690943,HT Ram Membership,138G,classic,2018-09-28 18:13:42.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18552389,HT Ram Membership,166,classic,2018-09-14 14:45:23.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+18708299,HT Ram Membership,385,classic,2018-09-30 21:57:44.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+18664720,HT Ram Membership,247,classic,2018-09-25 21:52:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,134
+18552422,HT Ram Membership,361G,classic,2018-09-14 14:48:15.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+18603968,HT Ram Membership,655,classic,2018-09-19 14:45:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+18604309,HT Ram Membership,655,classic,2018-09-19 15:20:10.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,57
+18586743,HT Ram Membership,863,classic,2018-09-17 21:22:22.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+18585409,HT Ram Membership,655,classic,2018-09-17 19:00:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,108
+18582030,HT Ram Membership,341,classic,2018-09-17 14:38:23.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+18611910,HT Ram Membership,957,classic,2018-09-20 12:49:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+18614926,HT Ram Membership,655,classic,2018-09-20 17:51:35.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,375
+18621645,HT Ram Membership,655,classic,2018-09-21 13:27:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+18680364,HT Ram Membership,55,classic,2018-09-27 16:58:28.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,31
+18669694,HT Ram Membership,902,classic,2018-09-26 14:55:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,7
+18692706,HT Ram Membership,528,classic,2018-09-28 22:17:09.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+18597370,HT Ram Membership,863,classic,2018-09-18 20:49:59.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,76
+18627485,HT Ram Membership,299,classic,2018-09-22 00:32:19.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,289
+18626107,HT Ram Membership,2299,classic,2018-09-21 20:23:25.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,39
+18702126,HT Ram Membership,385,classic,2018-09-30 01:23:25.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,62
+18577341,HT Ram Membership,341,classic,2018-09-16 23:38:58.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,38
+18665161,HT Ram Membership,460,classic,2018-09-26 00:15:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+18683406,HT Ram Membership,040G,classic,2018-09-27 22:34:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,19
+18683512,HT Ram Membership,040G,classic,2018-09-27 23:03:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+18708090,HT Ram Membership,142,classic,2018-09-30 20:04:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+18635835,HT Ram Membership,2299,classic,2018-09-22 20:12:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,34
+18646824,HT Ram Membership,229,classic,2018-09-23 23:15:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,567
+18670654,HT Ram Membership,190,classic,2018-09-26 16:31:18.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,41
+18670880,HT Ram Membership,765,classic,2018-09-26 16:52:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,20
+18670127,HT Ram Membership,765,classic,2018-09-26 15:45:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,61
+18674206,HT Ram Membership,138G,classic,2018-09-27 00:37:11.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18680735,HT Ram Membership,55,classic,2018-09-27 17:29:51.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,40
+18682816,HT Ram Membership,272,classic,2018-09-27 20:42:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+18699467,HT Ram Membership,329,classic,2018-09-29 18:07:54.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18701299,HT Ram Membership,142,classic,2018-09-29 22:06:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,15
+18702195,HT Ram Membership,399,classic,2018-09-30 01:58:51.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+18703317,HT Ram Membership,385,classic,2018-09-30 10:55:14.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+18703320,HT Ram Membership,142,classic,2018-09-30 10:55:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+18646028,HT Ram Membership,299,classic,2018-09-23 20:41:00.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18656241,HT Ram Membership,284,classic,2018-09-25 00:16:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,17
+18669629,HT Ram Membership,247,classic,2018-09-26 14:47:33.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,30
+18637183,HT Ram Membership,520,classic,2018-09-22 23:23:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+18642719,HT Ram Membership,2299,classic,2018-09-23 16:08:50.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,28
+18546323,HT Ram Membership,361G,classic,2018-09-13 22:02:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,4
+18690731,HT Ram Membership,261G,classic,2018-09-28 17:56:28.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+18534203,HT Ram Membership,361G,classic,2018-09-12 19:04:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,43
+18535302,HT Ram Membership,166,classic,2018-09-12 20:55:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+18546131,HT Ram Membership,188,classic,2018-09-13 21:29:00.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+18557967,HT Ram Membership,361G,classic,2018-09-15 00:33:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,31
+18597383,HT Ram Membership,655,classic,2018-09-18 20:51:05.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,74
+18611870,HT Ram Membership,655,classic,2018-09-20 12:45:59.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,32
+18646806,HT Ram Membership,299,classic,2018-09-23 23:09:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,573
+18671160,HT Ram Membership,247,classic,2018-09-26 17:14:36.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+18691257,HT Ram Membership,528,classic,2018-09-28 18:39:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18699796,HT Ram Membership,142,classic,2018-09-29 18:41:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+18592786,HT Ram Membership,863,classic,2018-09-18 14:01:57.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+18493115,HT Ram Membership,1895,classic,2018-09-08 15:31:36.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,41
+18536046,HT Ram Membership,1930,classic,2018-09-12 23:21:07.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+18536049,HT Ram Membership,361G,classic,2018-09-12 23:21:56.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+18553650,HT Ram Membership,188,classic,2018-09-14 16:38:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,16
+18604224,HT Ram Membership,247,classic,2018-09-19 15:10:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,67
+18605515,HT Ram Membership,1984,classic,2018-09-19 17:17:34.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+18635565,HT Ram Membership,520,classic,2018-09-22 19:39:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,55
+18640205,HT Ram Membership,2299,classic,2018-09-23 12:48:33.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,56
+18644573,HT Ram Membership,299,classic,2018-09-23 18:25:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,22
+18659830,HT Ram Membership,299,classic,2018-09-25 13:29:40.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+18665137,HT Ram Membership,349G,classic,2018-09-25 23:57:10.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,43
+18670773,HT Ram Membership,3405,classic,2018-09-26 16:43:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,29
+18682821,HT Ram Membership,55,classic,2018-09-27 20:43:00.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+18682827,HT Ram Membership,979,classic,2018-09-27 20:43:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,23
+18692190,HT Ram Membership,329,classic,2018-09-28 20:35:21.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,53
+18702114,HT Ram Membership,138G,classic,2018-09-30 01:18:33.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,67
+18702117,HT Ram Membership,329,classic,2018-09-30 01:19:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,3
+18563995,HT Ram Membership,829,classic,2018-09-15 16:07:49.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+18626545,HT Ram Membership,554,classic,2018-09-21 21:27:41.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,8
+18627733,HT Ram Membership,2299,classic,2018-09-22 02:22:57.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,5
+18497832,Walk Up,1895,classic,2018-09-08 23:30:11.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+18534188,HT Ram Membership,276,classic,2018-09-12 19:03:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,43
+18535293,HT Ram Membership,276,classic,2018-09-12 20:54:43.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+18545692,HT Ram Membership,166,classic,2018-09-13 20:25:00.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,50
+18545698,HT Ram Membership,361G,classic,2018-09-13 20:25:38.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,50
+18546316,HT Ram Membership,166,classic,2018-09-13 22:01:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,128
+18567899,HT Ram Membership,907,classic,2018-09-15 22:27:42.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+18570713,HT Ram Membership,683,classic,2018-09-16 11:32:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,38
+18580800,HT Ram Membership,1424,classic,2018-09-17 12:46:38.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+18586127,HT Ram Membership,863,classic,2018-09-17 20:05:26.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+18605881,HT Ram Membership,1984,classic,2018-09-19 17:45:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,20
+18646811,HT Ram Membership,348,classic,2018-09-23 23:10:38.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,572
+18674222,HT Ram Membership,1386,classic,2018-09-27 00:55:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+18683608,HT Ram Membership,272,classic,2018-09-27 23:39:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+18692178,HT Ram Membership,528,classic,2018-09-28 20:32:55.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,56
+18706041,HT Ram Membership,385,classic,2018-09-30 14:30:47.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,10
+18446774,HT Ram Membership,161,classic,2018-09-03 18:11:14.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,46
+18446986,HT Ram Membership,14143,classic,2018-09-03 18:28:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,29
+18493100,HT Ram Membership,362,classic,2018-09-08 15:30:41.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,43
+18531162,HT Ram Membership,577,classic,2018-09-12 15:33:11.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,513
+18545331,HT Ram Membership,361G,classic,2018-09-13 19:46:46.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,13
+18552307,HT Ram Membership,577,classic,2018-09-14 14:39:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,37
+18553721,HT Ram Membership,577,classic,2018-09-14 16:43:56.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18598358,HT Ram Membership,299,classic,2018-09-19 00:41:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,31
+18634754,HT Ram Membership,299,classic,2018-09-22 18:19:11.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,18
+18642646,HT Ram Membership,299,classic,2018-09-23 16:02:28.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,34
+18642709,HT Ram Membership,2122B,electric,2018-09-23 16:07:59.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+18644558,HT Ram Membership,229,classic,2018-09-23 18:24:56.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,2
+18644604,HT Ram Membership,348,classic,2018-09-23 18:28:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,19
+18646304,HT Ram Membership,229,classic,2018-09-23 21:27:45.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,6
+18646831,HT Ram Membership,2122B,electric,2018-09-23 23:16:18.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,566
+18646845,HT Ram Membership,2299,classic,2018-09-23 23:17:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,565
+18651242,HT Ram Membership,229,classic,2018-09-24 14:24:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,140
+18651262,HT Ram Membership,2122B,electric,2018-09-24 14:26:03.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,152
+18652965,HT Ram Membership,229,classic,2018-09-24 17:24:39.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,28
+18706052,HT Ram Membership,142,classic,2018-09-30 14:31:29.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+18692670,HT Ram Membership,142,classic,2018-09-28 22:09:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,12
+18664870,HT Ram Membership,349G,classic,2018-09-25 22:28:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,34
+18438278,HT Ram Membership,399,classic,2018-09-02 20:12:37.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,41
+18438401,HT Ram Membership,514,classic,2018-09-02 20:26:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,27
+18535521,HT Ram Membership,361G,classic,2018-09-12 21:26:48.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,52
+18563974,HT Ram Membership,1703,classic,2018-09-15 16:06:14.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,59
+18605823,HT Ram Membership,247,classic,2018-09-19 17:40:16.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+18627486,HT Ram Membership,057G,classic,2018-09-22 00:33:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,288
+18634854,HT Ram Membership,326,classic,2018-09-22 18:26:17.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,28
+18635538,HT Ram Membership,2122B,electric,2018-09-22 19:36:38.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,58
+18646713,HT Ram Membership,299,classic,2018-09-23 22:49:30.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,19
+18651250,HT Ram Membership,348,classic,2018-09-24 14:25:08.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,153
+18651270,HT Ram Membership,299,classic,2018-09-24 14:27:06.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,313
+18665133,HT Ram Membership,190,classic,2018-09-25 23:56:20.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,44
+18670732,HT Ram Membership,004G,classic,2018-09-26 16:39:53.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,11
+18670812,HT Ram Membership,247,classic,2018-09-26 16:47:12.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,26
+18702193,HT Ram Membership,142,classic,2018-09-30 01:58:18.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,409
+18674227,HT Ram Membership,138G,classic,2018-09-27 01:02:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,14
+18680347,HT Ram Membership,138G,classic,2018-09-27 16:57:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,31
+18683401,HT Ram Membership,979,classic,2018-09-27 22:33:26.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,20
+18682823,HT Ram Membership,138G,classic,2018-09-27 20:43:04.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,24
+18446925,HT Ram Membership,254,classic,2018-09-03 18:23:27.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,34
+18497811,Walk Up,362,classic,2018-09-08 23:27:13.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,39
+18640195,HT Ram Membership,074G,classic,2018-09-23 12:47:42.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,57
+18646584,HT Ram Membership,299,classic,2018-09-23 22:26:24.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,9
+18656239,HT Ram Membership,349G,classic,2018-09-25 00:14:52.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,21
+18659966,HT Ram Membership,349G,classic,2018-09-25 13:45:00.000000 UTC,4055,11th & Salina ,4055,11th & Salina ,406

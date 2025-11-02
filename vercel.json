@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "practice.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "practice.py"
+    }
+  ]
+}
