@@ -14,8 +14,6 @@ def ShowData():
 @app.get('/data/delete/{duration}')
 def DeleteData(duration: int):
     df = pd.read_csv('bikeshare_trips_clean.csv').dropna()
-    df_new = df[df['duration_sec'] != duration]
-    df_new.to_csv('bikeshare_trips_clean.csv', index=False)
 
     if duration not in df['duration_sec'].values:
         raise HTTPException(
@@ -23,8 +21,11 @@ def DeleteData(duration: int):
             detail=f'Data dengan durasi {duration} tidak ditemukan.'
         )
 
+    df_new = df[df['duration_sec'] != duration]
+
     return {
         'message': f'Data dengan durasi {duration} detik telah berhasil dihapus.',
         'data_awal': f'{len(df)} baris',
-        'data_baru': f'{len(df_new)} baris'
+        'data_baru': f'{len(df_new)} baris',
+        'preview': df_new.head(5).to_dict(orient='records')
     }
