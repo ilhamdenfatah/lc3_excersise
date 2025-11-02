@@ -3,6 +3,11 @@ import pandas as pd
 
 app = FastAPI()
 
+# Welcome screen
+@app.get('/')
+def welcome():
+    return f'Hallo! Selamat datang!'
+
 # Menampilkan entry data
 @app.get('/data')
 def ShowData():
